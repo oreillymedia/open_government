@@ -1,0 +1,3 @@
+The following authors have also contributed the link:http://www.methods.co.nz/asciidoc/[AsciiDoc] source of their chapters.  This list will evolve over time as we are able to contact more authors.
+
+* Chapter 2.  Tim O'Reilly.
