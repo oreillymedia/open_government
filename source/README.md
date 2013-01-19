@@ -1,4 +1,4 @@
-The following authors have also contributed the http://www.methods.co.nz/asciidoc/[AsciiDoc] source of their chapters.  This list will evolve over time as we are able to contact more authors.
+The following authors have also contributed the [AsciiDoc](http://www.methods.co.nz/asciidoc/) source of their chapters.  This list will evolve over time as we are able to contact more authors.
 
 * Chapter 1.  A Peace Corps for Programmers, [Matthew Burton](http://matthewburton.org/).
 * Chapter 2.  Government As a Platform, [Tim O'Reilly](https://twitter.com/timoreilly).
