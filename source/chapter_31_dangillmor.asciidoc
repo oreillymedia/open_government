@@ -1,0 +1,164 @@
+[[gov_media_people]]
+[au="Dan Gillmor"]
+== Gov→Media→People
+
+In the old days of the twentieth century, journalists imagined that information about government activities moved this way: government→news media→people. Journalists selected from the torrent of government activities—including the day-to-day doings of legislators, executive branches, and bureaucrats; press releases and other documents; and so on—and decided what was important enough to tell readers. Imagine a one-way hourglass with the bulb at the top called Government, the slender neck in the middle called Media, and the immense container at the bottom called the People, namely the rest of us. That description was always too simplistic, of course. But now it&rsquo;s downright quaint. The system has evolved, largely due to the democratization of media. When anyone can publish, and when anyone else can read (listen to, watch, work with, etc.) what&rsquo;s been published, roles shift—and blur—in dramatic ways.
+
+To understand how thoroughly things have changed, consider what happened when I posted the following on Twitter a day before leading a session at Transparency Camp West—a Silicon Valley &ldquo;unconference&rdquo; (attendees controlled the agenda) held in August 2009, of open-government advocates—on evolving media and government roles. I said (editing slightly to correct the grammar in this greater-than-140-character medium): &ldquo;I&rsquo;m asking what replaces gov→media→people in a more open world.&rdquo;
+
+A few minutes after my posting, I got a reply from a Twitter user named Tara Haelle, a student who was working during the summer on a project at Northwestern University&rsquo;s journalism school. She offered the following construction:
+
+
+gov&rsquo;t→ppl→blogs/Tw/FB/etc→media coverage→ppl→comments on
+media; alongside gov&rsquo;t WhtHs PresCor→media→ppl→ppl commentary
+
+Let&rsquo;s translate Haelle&rsquo;s rejoinder. The flow she suggested went like this: government information becomes available to the people. Via blogs, Twitter, Facebook, and other mechanisms, the people (including journalists) look at and analyze the information. This leads to some media coverage, which some people see. The media audience comments on the journalism, both directly to the journalists and in the people&rsquo;s own media (blogs, etc.). Meanwhile, a parallel process occurs: government and journalists do their traditional dance, and tell the people what they consider important via the traditional press, and the people comment in traditional ways, such as op eds and letters to the editor.
+
+We know which is better, don&rsquo;t we?
+
+That Haelle&rsquo;s quick response had come from the Net was instructive in its own way, of course; a demonstration of how we communicate. And it helped to frame the conversation the next day. Her mini flowchart brought a more nuanced view of the way information will move among those who govern and those who are governed, and she correctly envisioned the traditional press playing a still-important but dramatically evolving role.
+
+If this is obvious to many people, it seems less so to the traditional journalists themselves, by all appearances. Many, if not most, still cling to their self-appointed old role: as intermediaries. They need to get over it, not just because in an era of democratized media they can&rsquo;t possibly be the sole or even main funnel, but also because new media tools will give them better ways to do their jobs.
+
+Whatever they do (or don&rsquo;t do) to improve their craft, journalists will be obliged to understand that roles in the emerging mediasphere are complex, and blurred. At the Transparency Camp session, John Wonderlich, Sunlight Foundation&rsquo;s policy director, and other participants came up with a long list of roles. These included (in the order I wrote them down on a whiteboard): validator, provocateur, analyst, storyteller, fact checker, collector, curator, distributor, and amplifier.
+
+The terms overlap, and some are plainly more, well, journalistic than others, at least in any modern notion of the craft. More important, everyone in the flow of information can play one or more of these roles at different points in the conversation. That includes people in government.
+
+The word _conversation_ is key, moreover. Governments, like all other enterprises, have a variety of constituencies. These include citizens, taxpayers, employees, suppliers, media, and others. (Note that media isn&rsquo;t near the top of that list.) Governments don&rsquo;t tend to converse with constituencies, but over time they&rsquo;ll understand why this is better than current practice; more liberal data policies are a solid first step in the right direction, however.
+
+Journalism organizations will, if they grasp the possibilities, become more than simple reporters of (some of) what government does. One key method will be to leverage application programming interfaces (APIs) that connect all kinds of web-enabled data and services. Another will be to bring citizens into the journalism process itself. Both will boost the most essential role the journalists have performed in the past: that of watchdogs. Governments, at least honest ones, will have an incentive to help.
+
+How might this work? We&rsquo;ve already seen some glimmerings of the possibilities:
+
+
+* Journalists have been doing what&rsquo;s been called _computer-assisted reporting_ for several decades now. In most cases, this means using databases to better understand trends and issues. These databases can be created internally or, increasingly, are obtained from government agencies. They include census and other demographic information; environmental data; worker injury records; and many other kinds of things. When translated into charts, maps, and other visually understandable formats these data sources are useful elements of modern journalism.
+
+What journalists rarely do, however, is to open up the latter data type—government information—to their audiences. Rather, journalists pluck what they consider important from the information and present it. If they instead made the data available to the wider public, and with interfaces that gave nontechnical people easy ways to play with the data, everyone would be better off. Making the data available is a form of journalism, after all. Members of the audience would surely find things the journalists had missed, and with the help of the news organization, that new information could make its way to the rest of the community.
+
+
+* Several years ago _The Bakersfield Californian_ created what has become a signature feature on its website: a pothole map, a mashup of Google Maps and people power. Residents of Bakersfield, a small inland city north of Los Angeles, were encouraged to put virtual pins in the map showing which streets had potholes in them. The newspaper doesn&rsquo;t begin to have enough staff members to do this itself, but the people of Bakersfield are more than capable of telling each other where the potholes are on their own streets.
+
+The _Californian_ didn&rsquo;t leave it there. The paper gave residents an easy way to contact the city government with their reports, and asked them to post back to the site when the potholes had been repaired. (Still better would be direct links via APIs, should they exist, to the city&rsquo;s own street-repairs database.)
+
+There&rsquo;s rich potential for follow-up journalism in this project. For example, what neighborhoods get the most and fewest potholes per capita? And in which parts of the city are potholes repaired most quickly, and slowly, when they do appear? One would guess that residents in richer parts of Bakersfield might fare better on both of these questions.
+
+The Bakersfield project isn&rsquo;t the only one of this kind. In the United Kingdom, FixMyStreet asks people to report potholes and other urban-infrastructure issues and then transmits those reports to the local government agencies tasked with fixing the problems. FixMyStreet is a project of mySociety, an activist organization, not a journalistic one. mySociety holds a number of innovative projects in this arena, including PlanningAlerts.com, which lets residents of neighborhoods know about urban-planning applications, such as for construction permits, in their vicinity. These projects serve vital community information purposes no matter what we call them. Why journalism organizations themselves don&rsquo;t do these things or, for the most part, license them for their audiences is a mystery.
+
+Tom Carden, interaction designer and engineer at Stamen Design, a small San Francisco company that does brilliant visualizations of data, explains some of the possibilities: &ldquo;Perhaps,&rdquo; he says, &ldquo;the future of journalism involves the finding and maintaining of effective feedback loops between throwaway (zero effort) problem ticketing applications and the people who can actually follow through and fix the problem.&rdquo; Just as the pothole maps need to connect directly with municipal databases, Carden suggests that crime mapping sites could track solved crimes as well as incident reports.
+
+Government taxation and spending are among the equally obvious places where journalism organizations could add great value on behalf of their communities. Again, rather than think of themselves as filters, the journalists will need to be connectors in ways they haven&rsquo;t done before to any great extent. Specifically, they&rsquo;ll need to:
+
+
+* Learn the language and techniques of programmers who create APIs to government data.
+
+
+* Create APIs to their own journalistic work.
+
+
+* Find ways to connect those APIs.
+
+
+* Help their audiences understand how to use the result, often to go even further.
+
+The connections media organizations create don&rsquo;t have to be technical, though they&rsquo;ll always involve technology. Some of the best examples are already in use, though not to the degree they could be. _Crowdsourcing_, gathering knowledge in an organized way from an audience, is an almost ideal way for smart journalists to help get the news to the most people in the best way.
+
+[[crowdsourcing_in_action]]
+
+=== Crowdsourcing in Action
+
+One of crowdsourcing&rsquo;s most ardent practitioners is Joshua Micah Marshall, founder and editor of the Talking Points Memo (TPM) family of sites. The work by Marshall and his team on the Bush administration&rsquo;s politically charged firings of many U.S. attorneys during the second Bush term relied, in part, on smart collaboration with the audience—and it won a major journalism award. What TPM did was simple: every time the Justice Department dumped a pile of documents into the public record, as it did repeatedly during the prosecutors episode, Marshall and his team asked their readers to help vet the documents and pull out the nuggets that might otherwise have gone unnoticed for some time.
+
+A potentially brilliant variation on that theme is link:$$http://shovelwatch.org$$[ShovelWatch], a joint project of several journalism organizations including ProPublica, WNYC radio, and The Takeaway news program. The project aims to track the federal government&rsquo;s fiscal stimulus package &ldquo;from bill to building&rdquo; and is &ldquo;organizing citizens nationwide to watchdog local stimulus projects.&rdquo;
+
+What gives these ideas special power is the opportunity to help people who&rsquo;ve been passive consumers of media to better understand some essential journalism principles. When people help with the reporting—that is, the gathering of information—they may appreciate what it takes to create high-quality journalism.
+
+That was one motivation behind a suggestion I made after the Wall Street Journal exposed the apparently widespread backdating of executive stock options at public companies. I say &ldquo;apparently&rdquo; because even the talented staff at the _Journal_ could analyze only a relatively small number of the 5,000-odd public companies to come up with its analysis. The newspaper used a formula, created with the help of a Yale professor, to calculate the odds that the options grant dates were a coincidence or a deliberate occurrence.
+
+The _Journal_ could have then embarked on a national effort, effectively deputizing shareholders and other interested readers to help finish the research. The paper might have created an online tool into which any self-appointed citizen journalist could, with detailed guidance from the newspaper, do the following:
+
+
+. Look up the relevant data for a given company, using the U.S. Securities and Exchange Commission&rsquo;s (SEC) database of corporate filings and other public data sources.
+
+
+. Plug the correct numbers, along with the URLs of the SEC filings from which the data came, into an online calculator that determines, based on the researchers&rsquo; methodology, whether the odds suggest backdating chicanery.
+
+
+. And finally, upload the results to a public database for use by journalists, prosecutors, other shareholders, and anyone else who might find it interesting.
+
+As noted, this web-based tool set would include some serious teaching materials, such as an easy-to-understand explanation of how to find the data, likely to be buried deep in a corporate report or even a footnote. I remain convinced that the educational value alone would make this worth the effort—though the collaborative work on this or any number of similar projects could yield stunning results in the old-fashioned notion of watchdog journalism and citizenship.
+
+Even if today&rsquo;s pro journalists fail to grasp the possibilities, a new generation of media creators will certainly take advantage of them, and they are endless. So is the available talent.
+
+In early 2009, Stanford University students showed up at a public forum featuring former Secretary of State Condoleezza Rice, with their mobile phone video cameras. They respectfully but insistently asked Rice about her role in our nation&rsquo;s torture of prisoners in recent years. To call her response inept is an understatement, as many have explained; she fumbled around, yet all but implicated herself in war crimes even while trying to deny the obvious truth. The students&rsquo; video became a widely seen sensation on YouTube.
+
+The Nation magazine&rsquo;s Ari Melber understood the larger import of the students&rsquo; action. &ldquo;(T)his incident also shows the prospects for what we might call a substantive Macaca Moment—using YouTube and citizen media to scrutinize our leaders on the issues, not gaffes,&rdquo; he wrote.
+
+_Macaca_ refers, of course, to former U.S. Sen. George Allen&rsquo;s racially tinged slur of a volunteer for his opponent, made in a public place, caught on video, and also posted to wide notoriety on YouTube in 2006. Allen, a Virginia Republican who turned out to have a history of making odd racial remarks, lost his bid for reelection in part because of this incident.
+
+Allen&rsquo;s self-inflicted wound was one of many such milestones. Public figures are learning that when they say something stupid, ugly, or just plain wrong, someone with a video camera may well capture it and make it widely available. The fact that politicians haven&rsquo;t wholly absorbed this lesson even now is astonishing, but they will.
+
+Rice&rsquo;s well-earned predicament had a more directly relevant antecedent. That was when former President Bill Clinton, prompted by a question from a citizen journalist for The Huffington
+    Post&rsquo;s Off the Bus project, furiously denounced a magazine article about him and the then-fading presidential campaign of his wife, Hillary. He did himself and his wife no favors.
+
+We need to take the best lessons from the Clinton and Rice meltdowns and find a way to re-create such confrontations, again and again: we need to organize to ensure that public figures—especially politicians and business leaders—are asked key questions, and not let them off the hook the way the traditional media tend to do.
+
+We know that the political press corps and business journalists often avoid asking hard questions, or fail to follow up on each other&rsquo;s good questions when the politicians and businesspeople duck honest answers. This has many causes, including the worry of losing access to the rich and powerful people they count on to supply quotes for their too-often stenographic reporting. Rice&rsquo;s years in Washington surely taught her, as Scott Horton noted in a blog posting, that journalists were all like the &ldquo;Beltway punditry and the access-craving White House press corps.&rdquo;
+
+Not the Stanford students. And not the rest of us, who don&rsquo;t especially care if we occasionally make the rich and powerful uncomfortable.
+
+Slowly, the traditional media have been inviting the rest of us to come up with questions for the people they cover. NBC played at this a bit in 2009 by inviting audience questions that might or might not be asked at an Obama press conference. Other news organizations did similar things.
+
+Meanwhile, the savvy Obama media team has created an link:$$http://www.whitehouse.gov/Openforquestions$$[&ldquo;Open For Questions&rdquo; area] on the White House website. It conducted an Online Town Hall experiment, drawing from citizens&rsquo; questions, that was modestly successful.
+
+_The Nation_, for which Melber is Net movement correspondent and blogger, joined with The Washington
+    Times and the Personal Democracy Forum on a project they&rsquo;ve called &ldquo;Ask the President&rdquo;—creating what Melber called a &ldquo;people&rsquo;s press conference&rdquo; of sorts. Again, a positive step forward, in particular because it uses online community tools to (attempt to) figure out what the best questions may be.
+
+But the press conference metaphor misses the wide potential, which the Stanford students so neatly captured. While a traditional press conference consists of a person in a room answering questions from the people assembled there—picking the questioners (and, in Obama&rsquo;s case, most of the actual questions)—we can use the growing ubiquity of digital recording devices to turn the world into the pressroom.
+
+How? By leveraging all of these devices, and the people willing to use them, in a wider and much more organized way—insisting, respectfully, that public figures answer the questions that matter.
+
+The key would be to use technology—and public-spirited people&rsquo;s willingness to participate—to aggregate unanswered questions, select ones that are most important, and get participants to ask these questions of public figures when they appear in public.
+
+A simple example: congressional Democrats have been largely unwilling to confront President Obama on his endorsement of Bush-era presidential-power claims. Unfortunately, the Washington press corps and journalists in their districts have not bothered to inquire whether these representatives are as bothered by these claims as many said they were during the Bush years. Our team might agree to find members back in the district at small public events and insist on individual answers that would add up to some clarity on whether we&rsquo;ll get any pushback against Obama&rsquo;s own power grab.
+
+Keeping in mind that I haven&rsquo;t begun to think this all the way through, here&rsquo;s an initial cut at how we might do it. I&rsquo;d include the following criteria:
+
+
+* Questions would be submitted by anyone—journalists, users, experts, whoever.
+
+
+* We would collectively vote on the most important questions. (This is tricky, subject to gaming.) Alternatively, but not my favored method, we might ask a team of unquestioned experts to choose. (This is not very democratic or webby.) Whatever the method, we&rsquo;d end up with some question(s) to ask.
+
+
+* We&rsquo;d gather and publish information, submitted by users or gleaned from calendars, about public and semipublic appearances of those we want to approach. An example of a semipublic appearance is a corporate annual meeting where only shareholders are permitted to ask questions.
+
+
+* Vitally, we&rsquo;d require that the questions be asked in a respectful way, and that we capture the exchanges on video if at all possible, but on audio at the very least.
+
+
+* Answers would be posted immediately, to avoid repetitive questions that have already been answered.
+
+In the end, this isn&rsquo;t about creating a global, distributed press conference (which isn&rsquo;t a bad idea in itself). It&rsquo;s about accountability.
+
+And accountability is at the core of public knowledge and understanding government processes and results. Transparency is insufficient unless citizens can act effectively if they disapprove of what they&rsquo;ve learned.
+
+Journalists have spent decades framing their role in the context of being the lynchpins of accountability. Sometimes they&rsquo;ve succeeded, but their larger failure has stemmed from their inability to imagine themselves in the less powerful (in a centralized way) but ultimately more influential place they&rsquo;ll have in the emerging world.
+
+[[I_sect131_d1e12893]]
+
+=== Conclusion
+
+For any or all of this to succeed, of course, the former audience—people who&rsquo;ve been mere consumers of media—will need to become active users. We&rsquo;ll have to learn, or relearn, key principles including the necessity to be skeptical of everything we see from media of all kinds, but not equally skeptical of everything. We&rsquo;ll need to do more of our own homework when confronting issues. We&rsquo;ll need to listen to others whose views make our blood boil. And we&rsquo;ll need to learn media techniques, especially the ways media can be used to manipulate public opinion.
+
+Moreover, in the new ecosystem of media that includes the people as participants, we&rsquo;ll have to learn what amounts to Journalism 101: principles of thoroughness, accuracy, fairness, independence, and transparency. The more we expect of others, the more we should demand of ourselves.
+
+We can get this right. We won&rsquo;t get it right quickly, however. This is a multiyear, multidecade, and maybe even multigenerational process. But in the end, when we have a media ecosystem that is more diverse and robust than the one we&rsquo;ve had, we&rsquo;ll be better off individually and as citizens. A lot rides on whether we want to make the effort.
+
+[[I_sect131_d1e12905]]
+
+=== About the Author
+
+
+
+Dan Gillmor is the director of the Knight Center for Digital Media Entrepreneurship at Arizona State University&rsquo;s Walter Cronkite School of Journalism and Mass Communication. The Center, funded by the Knight Foundation and the Kauffman Foundation, is working to help create a culture of innovation and risk-taking in journalism education, and in the wider media world. He remains director of the Center for Citizen Media, originally a joint project of the University of California-Berkeley School of Journalism and the Harvard Berkman Center for Internet &amp; Society. He was a fellow at Berkman from 2006–2009 and is now a faculty associate.
+

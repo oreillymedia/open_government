@@ -1,0 +1,191 @@
+[[open_government_the_privacy_imperative]]
+[au="Jeff Jonas", au2="Jim Harper"]
+== Open Government: The Privacy Imperative
+
+When President Obama issued his open government directive on his first full day in office, he signaled in dramatic style that his administration would be more committed to collaboration, transparency, and participation than any prior administration (see the <<memo_from_president_obama>>). With an administration committed to openness and with continuing advances in information technology, the stars are aligning for major changes in the way government operates. But implementing open government will produce new challenges. One significant challenge will be the protection of privacy.
+
+As with all other digital interaction, online democracy that is collaborative and participatory will require U.S. citizens to reveal more personal information to government than they have before. Participating in online communities can produce deep reservoirs of information, raising acute sensitivities in the governmental context. Data collection can chill free speech or threaten legal rights and entitlements, undermining the valuable potential of open government if online privacy issues are not handled well.
+
+If participatory government is to have the confidence of citizens, it must be very sensitive to individual privacy and related values. Open government will not truly succeed if it is not welcoming to everyone. The most credible and successful open government systems must have the trust of all potential users, not only that of technophiles and the web generation. Open government systems must garner the trust of people who disagree with administration policies, people who distrust government generally, and people who are leery of the Internet.
+
+As governments enter the 2.0 era, they must examine what information they collect from citizens and the rules governing how these data collections are used and controlled. A variety of techniques can protect privacy and foster the sense among all citizens that interacting with government will not expose them to adverse consequences, retribution, or negative repercussions. New and improved privacy practices can help fulfill the promise of open government.
+
+[[privacy-enhancing_practices]]
+
+=== Privacy-Enhancing Practices
+
+As strongly as many people feel about privacy, it is not a simple concept. Privacy and privacy-related values have many dimensions that must be balanced and calibrated to achieve the goals of open government. A number of practices can enhance privacy, encourage participation, and build the credibility of open government.
+
+[[data_minimization]]
+
+==== Data Minimization
+
+By default, most information technology systems are built to retain data. This is the reverse of the human experience, in which most data is never recorded—indeed, it is often not even thought of as data. What is recorded is captured imperfectly, and most of the information collected is later forgotten or kept practically obscure. For open government systems to be human-friendly, they should generally act more like the organic human environment.
+
+One buzzword that describes how data collection can be made more human is _data minimization_. People should not face unnecessary data collection when they open a channel to their government. Open government systems must collect data that is necessary for interaction, of course, but they should otherwise be tactfully calibrated and tailored to each interaction.
+
+A starting point for minimizing data is to define the goals of any open government system. Is the goal of the system to provide the public an outlet for complaints or compliments? Is it for constituents to request services? Is it for communicating political information to supporters or opponents? Is it for communicating legal and regulatory information to regulated parties? Is it for gathering data about technical or regulatory problems? Is it a collaborative tool for designing new government programs? Is it for gauging public interest in a specific issue? Each goal warrants a particular level of data collection.
+
+If, for example, the system is responsible for providing a service, such as resolving a complaint about a passport application, the system will need to collect contact information and other personal data. To protect privacy, data minimization might call for using a _problem ticket_ or _incident log_ format, in which all data is associated and held with the ticket. When the service has been rendered, it may be appropriate to keep and disseminate statistical information, such as the type of service, response time, and outcome. Specific information about the service and details about the beneficiary might be warehoused once the service is complete, then outright deleted as soon as possible.
+
+If the goal is to gather data about a specific technical or regulatory problem, on the other hand, data minimization may call for eliminating the collection of personal identifiers entirely. Say, for example, that a traffic safety agency wants to collect information about road conditions, lighting, and hazards—&ldquo;crowdsourcing&rdquo; information that was previously compiled by its own crews. The system that gathers this information could decline to record any identifying data about people submitting information to a wiki or via phone, email, or web-based submission form. The incentive to &ldquo;spoof&rdquo; data in this example would be low, and falsified data would have little, if any, cost.
+
+If the goal is to gather public opinion data, a system likewise need not record opinions tied to identifiers of each person submitting a view. Rather, opinions can be collected in generic form, ranked as to level of intensity, and so on, without creating records of the political opinions of specific individuals. As long as the system can count unique respondents in some way, and measure demographics if need be, there is likely no need for the retention of personally identifiable data. Privacy considerations must be carefully weighed against the demand for detail.
+
+These are examples of data minimization options that can be put into practice because the discrete goals of a system are clear. There are many data minimization strategies, such as anonymous access, controlled backups, data destruction/decommissioning, and minimal disclosure.
+
+[[anonymous_access]]
+
+==== Anonymous Access
+
+In many cases, people should be able to interact with policymaking anonymously so that they can share insights that they otherwise would not. Consider the example of an immigrant who suspects that an error in her documentation might not allow her to gain permanent residency, and might even be grounds for deportation. She wants to learn the rules from the Department of Homeland Security, share her story with congressional representatives, and share the source of her confusion with policymakers in the White House.
+
+She should be able to create a stable identity for conducting these interactions, but deny immigration law enforcement the ability to track her down. If she cannot communicate this information anonymously, she almost certainly will not ask questions or volunteer information, denying herself help she might deserve while denying policymakers relevant information.
+
+Anonymity will always be a moving target. Stripping away name, address, and email address does not make data anonymous. As data analytics improve and as data stores grow and become more interoperable, it will be easier to piece together identity from seemingly nonidentifying information. Combinations of data elements, such as date of birth, gender, and zip code,footnote:[&ldquo;k-anonymity: a model for protecting privacy,&rdquo; L. Sweeney, International Journal on Uncertainty, Fuzziness and Knowledge-based Systems, Vol. 10, Issue 5, October 2002; pp. 557–570.] can be used to hone in on specific individuals. Being aware of this and minimizing data that is likely to facilitate reidentification will protect privacy.
+
+[[controlled_backups]]
+
+==== Controlled Backups
+
+Another difference between the digital environment and the human experience is the way data tends to replicate. The good practice of backing up digital data creates many more copies of information than there are in the &ldquo;real world.&rdquo; Copies of data create the risk of unintended disclosure, theft, or future repurposing of the data.
+
+As important as good backup practices are, restraint in backup policy is worth considering. Open government systems must account for where backed-up data is stored, who handles it, and how many copies are truly necessary. Similarly, stale backups should be destroyed.footnote:[Often, the destruction process is actually achieved by overwriting or cycling a backup; that is, reusing the backup media.]
+
+Special consideration will be necessary as the government looks to _cloud computing_. Cloud computing is the use of distant servers for applications, analytics, data storage, and management. Most users of publicly available cloud computing services today have no idea how many copies of their data exist, much less exactly who controls each copy and who may have access to it. People who are skeptical about sharing data with a government agency or entity may be wary of &ldquo;the cloud.&rdquo; Cloud computing can be demystified and secured with careful policy; controls on data access, storage, and replication; and strong penalties for data theft or data misuse.
+
+Data collected in support of collaborative, participatory government systems must be managed and controlled in such a manner as to reduce the risk of inadvertent disclosure and undesirable reuse. This risk can be minimized in part by reducing the number of times data is copied.
+
+[[data_retention_and_decommissioning]]
+
+==== Data Retention and Decommissioning
+
+Similarly, open government systems must give careful consideration to data destruction. Data stores are perfectly secure only when they no longer exist.
+
+As with other data minimization practices there are balances to be struck. For good reason, laws such as the Presidential Records Actfootnote:[Presidential Records Act (PRA) of 1978, 44 U.S.C. § 2201.] require retention of materials that have administrative, historical, informational, or evidentiary value. Presidential records contain important insights that can benefit society, and it is appropriate to retain them whether it is political scientists or law enforcement officials that later discover the actions, thinking, or motivations of government officials.
+
+The Presidential Records Act is meant to open a window into the government for the benefit of the people, of course, not a window into the people for the benefit of the government. And the spirit of this law should shape policies about retention or destruction of information about citizens.
+
+For example, the IP addresses of the computers people use to interact with the White House are almost certainly never used or considered by decision-making officials. In most cases, there is little reason to retain this data for very long. For the security of the president and the White House, of course, immediate destruction is not advisable, but retention of this data has privacy costs that can threaten participation and collaboration.
+
+The treatment of White House records under the Presidential Records Act is just one example of where trade-offs among privacy and data retention are in play. There will be thousands of others where the law, a program&rsquo;s or a policy&rsquo;s goals, and U.S. citizens&rsquo; privacy interests must be balanced.
+
+The options are not constrained to just retention or destruction, of course. Archived data can be deoptimized for information retrieval, rendering it available only for infrequent, forensic inspection. Low-tech solutions such as microfiche or paper storage can still be used to maintain accountability while minimizing the risk of unintended disclosure, misuse, and repurposing.
+
+After data has outlived its relevance for explicitly stated purposes, though, policy should mandate wholesale data destruction. Clear language must govern storage, retrieval, archiving, and deletion processes.
+
+[[minimal_disclosure]]
+
+==== Minimal Disclosure
+
+When information will be transferred from one project, program, or agency to another, it should be transferred in the most limited form that still serves the purpose for which it is being transferred. As discussed earlier, the initial design of an open government system should minimize data collection. Being precise about purposes is key to protecting privacy. This applies to transferring data after it has been collected as well.
+
+Consider a simple example: say a social network for patent lawyers offers its members the opportunity to join a Patent Office project for advising the public on the patent process. The transfer of data to the new project might include the individuals&rsquo; names, firm names, and contact information, but there is no need to transfer the social network&rsquo;s data reflecting which lawyers are connected to whom.
+
+For more complex situations, there are methods that can mask data such as identity information while retaining the ability to match it with other data. Running a _one-way hash_ (an algorithm that transforms data into a non-human-readable and irreversible form) on data in two data sets allows the discovery of common items without wholesale sharing of the information. This protects privacy relatively well while still allowing useful analytics to be run. There are methods to attack this form of protection.
+
+[[note-5]]
+
+[NOTE]
+====
+Simple hashing techniques are at risk from a number of attacks, such as one party hashing all known values (a _dictionary attack_). This necessitates careful implementation, including such things as using third parties who do not have the ability to similarly hash the data.
+
+
+====
+
+
+Consider a situation in which two separate agencies would like to compare user demographics to see whether their educational and community awareness programs are reaching distinct populations or the same people. They are not legally allowed to copy or swap each other&rsquo;s data.
+
+A Social Security Administration program could take its private list of citizen email addresses from which its system has been accessed and anonymize it by scrambling it with a one-way hashing algorithm. A Medicare agency operating a wiki dealing with benefit administration can take its list of citizen email addresses and one-way-hash it the same way. These two deidentified data sets can then be evaluated for matches—finding common identities without revealing specific identities. If more demographic information is required for analysis, such as state of residence, such values can be associated with the hash values, though this can increase the risk of reidentification.
+
+There are a variety of ways to configure anonymized matching systems that serve different purposes and protect against different attacks. Such systems must be well designed and carefully operated to reduce the risk of reidentification and other unintended disclosures. One example of good design might be automatic destruction of irrelevant data immediately after the comparison process. One-way hashing and other more sophisticated cryptographic means reduce the risk of unintended disclosure while revealing useful information.
+
+There are also methods that obscure data while maintaining its statistical relevance. This involves changing or scrambling confidential values—such as identity, income, or race information—so that it reveals aggregate information, averages, or trends.
+
+Minimal disclosure—sharing only the necessary and directly relevant information—protects privacy even in the context of limited information sharing. This and most of the privacy protective techniques discussed earlier are aimed at reducing the collection of information and the use of what is collected. This is so that the public can engage with government while giving up the least possible control of personal information.
+
+Sometimes, of course, collection of personal information is necessary and appropriate, and data sharing is called for. In these cases, other privacy values are at stake. Methods are available for protecting the public&rsquo;s interests here, too.
+
+[[data-sharing_integrity_data_tethering]]
+
+==== Data-Sharing Integrity: Data Tethering
+
+There are times when it is entirely appropriate for governments to collect and use personal information. Individuals&rsquo; interests do not disappear when this happens, of course, but the values at stake shift.
+
+More and more, federal, state, and local government entities will use digital data to make many decisions that affect people&rsquo;s lives. Such decisions may govern their ability to access open government and their role in collaborative government. Such decisions may affect whether individuals are deemed suspects of crime, whether they receive licenses, benefits, or entitlements, and so on. Even when people have given up control of information, they want government decisions to be intelligent and fair.
+
+To deliver on this expectation, personal data should be kept current and accurate, and only relevant data should be used in government decision making. Data integrity helps provide important elements of fairness and due process, treatment that the Constitution requires in many cases and that the public demands of government. The Privacy Act requires agencies to &ldquo;collect information to the greatest extent practicable directly from the subject individual when the information may result in adverse determinations about an individual&rsquo;s rights, benefits, and privileges.&rdquo;footnote:[5 U.S.C. § 552a(e)(2).] This is intended to foster accuracy.
+
+Another technique to ensure data integrity is noting the source of the data. Knowing where data came from gives the recipient entity some sense of its quality and it allows the data to be validated or updated if needed. But without additional checking, simply knowing the source of the data does not reveal when the data has changed in the originating system. Data may grow stale or be eclipsed by new information when this model is the only protection for data integrity. The greater the window between database refreshes, the greater the error rate. Especially in national security and law enforcement settings, source attribution alone can be problematic, as real privacy and civil liberties consequences can result from using stale data.
+
+If data accuracy is important, _data tethering_ should be employed. Data tethering means that when data changes at its source, the change is mirrored wherever it has been copied.footnote:[Exceptions would include backups and static snapshots used for time-series analysis.] Every copied piece of data is virtually &ldquo;tethered&rdquo; to its master copy. Unlike source attribution, in which the recipient of shared information looks after its pedigree, data tethering involves outbound record-level accountabilityfootnote:[The sharing party tracks what records were sent to whom, when, and so on.] on the part of the organization that originally disseminated the information. Data tethering is an important protection for data integrity and good government decision making.
+
+Government systems engaged in transferring personally identifiable information are candidates for outbound record-level accountability and data tethering. Without well-synchronized data, open government systems will become mired in errors.
+
+[[accountability]]
+
+==== Accountability
+
+All government systems should prevent intentional data misuse. Active audit systems and immutable audit logs are important tools for watching the watchers.
+
+An active audit system watches what users are doing and either prevents them from violating policy or exposes them to oversight mechanisms. It can detect certain kinds of legal or policy misuse, such as an insider using a system in a way that is inconsistent with her job, as it is happening.
+
+Immutable audit logs are tamper-resistant recordings of how a system has been used—everything from when data arrives, changes, or departs to how users interacted with the system.footnote:[See link:$$http://www.markle.org/downloadable_assets/nstf_IAL_020906.pdf$$[&ldquo;Implementing a Trusted Information Sharing Environment: Using Immutable Audit Logs to Increase Security, Trust, and Accountability,&rdquo; Jeff Jonas and Peter Swire, February 2006].] Each event is recorded in an indelible manner. Even the database administrator with the highest level of system privileges is unable to alter the log without leaving evidence of her alteration.
+
+These systems help to create needed accountability. Their existence will also, of course, deter infringement of data use policies. It is important to recognize, however, that audit logs are copies of data that bring with them the risk of unintended disclosure, misuse, and repurposing.
+
+[[transparent_transparency]]
+
+==== Transparent Transparency
+
+The mantra inspired by President Obama&rsquo;s open government directive—collaboration, transparency, and participation—refers to government itself: collaborative public policy development, transparency in government decision making and outcomes, and participation by the widest possible cross section of the public. For open government to maximize its successes, the technical systems that produce these good things must be transparent as well, revealing the collection and movement of personal data.
+
+A major challenge to privacy is the fact that average consumers, citizens, and even savvy computer users are not aware of what they reveal when they enter digital environments. Amazing insights can be gleaned about people using sophisticated analytics on enormous data sets in large computing facilities. Uses of data that may seem standard to technology sophisticates today may be regarded as threatening privacy violations to the many less-well-informed citizens whom the government serves.
+
+The solution is transparency in the technical systems that underlie open government, but it is also much more than that. Every significant organization on the Internet and every actor in the digital revolution has some responsibility to educate the public about the information age, the economics of data, and how systems work. Without this education—without transparency about the whole information ecosystem—members of the public may fail to seek privacy protection, revealing sensitive information that cannot be concealed again. And they may fail to place blame in the appropriate place when they lose privacy or suffer ill treatment.
+
+Average people need to better understand the importance of valuing their personal data. They need to know what types of data are collected and stored, and for what purpose. Consumers and citizens should know what data analytics can produce from their data—what information can be learned or inferred about them.
+
+Privacy notices have been a focus over the past decade, but &ldquo;notice&rdquo; is only a small part of what it takes to educate the public and energize people about their privacy. Users of open government systems should be directly assured by notice that the Privacy Act, the Freedom of Information Act,footnote:[5 U.S.C. § 552.] and other laws, when they apply, are being observed by open government systems.
+
+Improved public awareness can result from demonstrations of how information is being used. Open government projects should make publicly available the statistics they gather from open government systems including wikis, cloud-based services, web portals, and so on. Increasing transparency of open government systems can both educate the public and deter excess data gathering.
+
+To further educate and empower, perhaps data transfers should be traceable by individual citizens themselves. Presenting data transfer information to citizens in an easy-to-understand format can increase their awareness, as they are able to see each instance when their data is shared, and with whom.
+
+A model of sorts for this is the Fair Credit Reporting Act,footnote:[15 U.S.C. § 1681 et seq.] which requires credit bureaus to document every time a third party has accessed consumers&rsquo; credit files. This audit trail of &ldquo;inquiries&rdquo; allows consumers to understand who has been looking. The government could improve on this early attempt at data transparency by applying such obligations to itself. It is a good example of how data about data could be shared, giving the consumer real insight into how information about her is being used.
+
+Providing individuals access to data about them raises security issues, of course. Individual privacy could be degraded by attempts to educate the public that reveal sensitive information to fraudsters or other snoops.
+
+Open government will fall short if the public cannot be educated enough to benefit from systems while understanding their rights and how data can be crunched to reveal things they have regarded as private or unknown. If users are caught by surprise due to a lack of transparency around where their data travels, if and how it is aggregated, how they are observed through data, and so on, they will shun open government systems.
+
+[[conclusion-id019]]
+
+=== Conclusion
+
+The advance of more collaborative, transparent, and participatory government must embrace all of society&rsquo;s values, including privacy. Open government will succeed only if it appeals to the widest possible audience, including skeptics of government, opponents of any given administration, and people who do not trust technology.
+
+The heart of privacy protection in open government is data minimization, requiring citizens to reveal the least amount of information required for any given transaction or relationship. Open government systems should be designed with their precise goals in mind. Under these circumstances, they can minimize the data they collect.
+
+Permitting citizens to deal with the government anonymously will foster participation. Carefully planning backup strategies and establishing thoughtful data retention and decommissioning policies can reduce the risk of unintended disclosure and misuse of personal data.
+
+When it is appropriate to share information, minimal disclosure techniques can minimize the loss of privacy even in that context. And, of course, when it is appropriate to share personal information, there are techniques to ensure that this does not degrade data quality and cause errant decisions that could deny people rights or benefits.
+
+Accountability can be enhanced by active audit and immutable audit systems that deter and expose wrongdoing. And transparency in open government data systems can educate and empower a public that too often today remains indifferent to how data is used by the government and throughout society.
+
+For all of the promise of open government to come to fruition, systems must be designed with basic values such as privacy in mind.footnote:[See link:$$http://www.ipc.on.ca/images/Resources/privacybydesign.pdf$$[&ldquo;Privacy by Design,&rdquo; by Ann Cavoukian].] With luck and lots of hard work, open government systems can fulfill the privacy imperative.
+
+[[I_sect129_d1e11989]]
+
+=== About the Authors
+
+
+
+Jeff Jonas is chief scientist of the IBM Entity Analytics group and an IBM Distinguished Engineer. The IBM Entity Analytics group was formed based on technologies developed by Systems Research &amp; Development (SRD), founded by Jonas in 1984 and acquired by IBM in January 2005. Prior to IBM&rsquo;s acquisition of SRD, Jeff led it through the design and development of a number of extraordinary systems, including technology used by the surveillance intelligence arm of the gaming industry. Leveraging facial recognition, this technology enabled the gaming industry to protect itself from aggressive card count teams, the most notable being the MIT Blackjack Team, which was the subject of the book Bringing Down the House (Free Press) as well as the recent movie 21. Today, Jonas designs next-generation &ldquo;sensemaking&rdquo; systems that fundamentally improve enterprise intelligence, making organizations smarter, more efficient, and highly competitive.
+
+
+
+Jim Harper is the director of information policy studies at the Cato Insititute and focuses on the difficult problems of adapting law and policy to the unique problems of the information age. Jim is a member of the Department of Homeland Security&rsquo;s Data Privacy and Integrity Advisory Committee. His work has been cited by USA Today, the Associated Press, and Reuters. He has appeared on the Fox News Channel, CBS, MSNBC, and other media. His scholarly articles have appeared in the Administrative Law Review, the Minnesota
+    Law Review, and the Hastings Constitutional Law
+    Quarterly. Recently, Harper wrote the book Identity
+    Crisis: How Identification Is Overused and Misunderstood (Cato Institute). Jim is the editor of link:$$http://privacilla.org$$[Privacilla.org], a Web-based think tank devoted exclusively to privacy, and he maintains online federal spending resource link:$$http://washingtonwatch.com/$$[WashingtonWatch.com]. He holds a J.D. from UC Hastings College of Law.
+

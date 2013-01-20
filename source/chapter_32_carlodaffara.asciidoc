@@ -1,0 +1,523 @@
+[[open_source_software_for_open_government]]
+[au="Carlo Daffara", au2="Jesus M. Gonzalez-Barahona"]
+== Open Source Software for Open Government Agencies
+
+The theme of open government that pervades this volume depends on drawing participation from as wide a swath of the public as possible, and this goal in turn calls for the use of software that is universally available, easy to use, easy to adapt to specific needs, and easy to modify to match evolving requirements. Free and open source software meets these goals more consistently than any alternative.
+
+In this chapter, we use the term _FLOSS_ for this type of software: free/libre/open source software. Although it&rsquo;s usually distributed free of charge, its distinguishing trait is a license that allows anyone to change the code and redistribute the changes. This keeps FLOSS from being dominated by one set of developers, and therefore from being burdened with restrictions that users may reject and that even may violate government policies (e.g., terms of service that let the developers collect personal information from users). The alternatives are usually called &ldquo;proprietary software&rdquo; because they are often free of charge but are still under the control of the organization that created them.
+
+FLOSS is already in widespread use within government agencies, and will have an even greater role to play in open government technologies that can be really useful for public administrations. However, adopting or migrating to FLOSS is a complex, multidisciplinary effort involving several areas of expertise. It requires taking a hard look at current workflows in the organization, as well as how people interact with information technology (IT) systems day to day. The unique complexities found in each public agency add more difficulties.
+
+So, FLOSS migration is a major endeavor, and as any migration, it can easily go wrong. All too often, agencies are discouraged by one failure from pursuing other opportunities, and may even blame the software or the community that supports it instead of the logistics of the migration. This chapter will hopefully persuade you that adopting FLOSS is crucial and will additionally give you guidelines to avoiding mistakes during its adoption.
+
+The common hurdles in adopting FLOSS fall into three major categories:
+
+Management:: Understanding the procedures that agency heads need to put in place, and how staff members must be coordinated
+
+Technical:: Choosing software appropriate for the job, and interacting with the community that developed the software in a productive manner
+
+Social:: Presenting change to staff members in a positive manner and handling the various forms of resistance they will put up
+
+Before introducing guidelines based on experience, we&rsquo;ll lay out some of the specific advantages of FLOSS for public agencies. Then we&rsquo;ll present a set of best practices obtained through research by European projects that have analyzed adoption and migration experiences.
+
+[[advantages_of_floss_for_government_and_p]]
+
+=== Advantages of FLOSS for Government and Public Agencies
+
+Government agencies, and public institutions to which they contract out services, are large software users with special characteristics derived from their obligations toward citizens and their unique legal status. For example, most agencies are expected, or even required by law, to provide services accessible to all residents of their regions, including those who are disabled, who lack education, or who are geographically isolated. Agencies must also be neutral in their relationships with manufacturers, and must often guarantee the integrity, privacy, and security of the data they handle over long periods of time.
+
+All these needs play into their considerations when adopting software, beyond the cost/functionality evaluation that businesses and individuals perform. An analysis of these common requirements shows a clear advantage to FLOSS solutions where they exist.
+
+[[independence_from_suppliers]]
+
+==== Independence from Suppliers
+
+Any institution values the advantages of keeping open options for different vendors, because it tends to lower costs and leave an escape path when a chosen vendor leaves the business or fails to provide up-to-date features. But for public agencies, a competitive market is usually more than a preference—it&rsquo;s a legislative requirement. The legislation enjoins them to initiate procurement by issuing calls for tenders that don&rsquo;t favor a single vendor. Any interested company that fulfills reasonable criteria can produce a bid that competes on its own merits with everyone else.
+
+But this critical adherence to disinterested policy is violated in the case of proprietary software. Each product is available from only one supplier (even if it uses a number of intermediaries). If a particular product is specified in a call for tenders, the administration has predetermined the supplier that gets the contract. In the case of computer applications, it is virtually impossible to avoid specifying a particular product because the agency needs compatibility with products that are already deployed, savings in training and maintenance, or other reasons.
+
+Requiring a proprietary format (such as the ability to deal with certain kinds of spreadsheets) is a looser limitation but still a means of lock-in, because the vendor that defined the format and continues to update the format over time is the only one the agency can rely on to handle the format in all its subtleties.
+
+FLOSS offers a way out of this situation. If the specified functionality is delivered by FLOSS, any interested company can offer the product and any service based on it, subject only to the capabilities and knowledge of the company. In addition, agencies that enter contracts this way can easily switch to another supplier without needing to switch to a new product.
+
+[[fulfillment_of_specific_requirements]]
+
+==== Fulfillment of Specific Requirements
+
+Public agencies, like other organizations, benefit from using software they can adapt to specific requirements. When they license a proprietary product, modifying it normally involves reaching an agreement with the producer, the only party that can legally (and often technically) make modifications. Under these circumstances, getting the company to agree to and deliver the desired changes is hard to achieve.
+
+In the case of FLOSS, software can be adapted either by its copyright owners or by any third party, which means that instead of negotiating with a single company, the service can be purchased in a competitive market. Some companies that deliver FLOSS will stop support if the software is altered by the customer—but support for these products is also available on an open market.
+
+[[adoption_of_open_standards]]
+
+==== Adoption of Open Standards
+
+FLOSS commonly follows open, published standards. In addition, because the source code is available, any format and protocol the standards implement can be reimplemented by other software developers, effectively turning the format or protocol into a standard. The advantages of this neutrality are especially significant for public agencies, particularly in their interactions with citizens, who should not be forced to purchase a product from a particular company just because it is the only one that implements a proprietary protocol the agency is using.
+
+[[public_scrutiny]]
+
+==== Public Scrutiny
+
+Public agencies have become increasingly committed to transparency. The public rightfully demands not only to be kept apprised of each stage of decision making—such as in urban planning—but to see the data behind the planning, the steps made in taking the decision, and the reasons for the decision. Being able to let citizens inspect the agency&rsquo;s software extends this public scrutiny to the field of IT. In addition, agencies need to guarantee that their computer systems do what they are intended to do (in many countries, by legal requirement). Many systems manage data with privacy restrictions (tax data, criminal records, health information, etc.), which must be kept out of the malicious grasp of unauthorized third parties. Ironically, experience has taught that systems tasked with keeping secrets are more secure and more likely to fulfill their requirements if the source code is open to examination; only encryption keys should be secret.
+
+Proprietary applications without source code are difficult to evaluate rigorously to guarantee that the application will process the data in the way that it should, with no leaks or back doors. Even if a vendor does provide a customer with its source code, the possibilities of a public institution ensuring that it is free of malicious or insecure elements are very limited. Remember that every major software product contains security flaws that are routinely reported and fixed only after the product has been in the field for months, or even years. Only if software inspection can be routinely done by third parties, including any citizen who may want to do it, can the agency be sure that it is taking all reasonable measures to comply with this fundamental duty.
+
+[[long-term_availability]]
+
+==== Long-Term Availability
+
+Much of the data processed and stored by agencies, and the programs used to manage this data, have mandatory availability requirements measured in decades. Proprietary software, being subject to the commercial strategy of the company producing it, cannot be guaranteed to be available in the platforms of the far future. It is quite possible that the producer will lose interest in the product, or in the data format used to store the information. Since only the producer can port the software to new platforms, negotiation will be difficult. A producer can go out of business or be purchased by another company that decides to leave the current business. Producers have even been known to deliberately change software so as to make it incompatible with earlier data formats, leaving all documents in those formats unreadable unless the agency can maintain an old computer system running old software.
+
+In the case of FLOSS, however, the source code of the application is certainly available and the vendor has given permission for its modification. Therefore, many companies can compete to provide the porting service when the agency decides to contract it. Documents in old formats can also be recovered because the programs can be revived or reverse-engineered.
+
+[[impact_in_the_society_at_large]]
+
+==== Impact in the Society at Large
+
+Many applications used by public agencies are useful to other sectors of society as well. That means that investments in software can have an impact on those sectors, well beyond their use by the administration itself. Common examples involve sophisticated new technologies developed for military use, which often prove valuable later in civilian aviation, communications, or even consumer products.
+
+If the government&rsquo;s investment is devoted to proprietary software licenses, the impact does not reach outside the administration. But if it is devoted to FLOSS, the improvements, adaptations, or new software that results from the investment is also available for the rest of the public.
+
+A specific example case concerns localization of FLOSS. When a public agency localizes a product, that localization is almost automatically available to citizens. In the case of small linguistic communities, this can be the only way to have localized software available.
+
+[[impact_on_local_industry]]
+
+==== Impact on Local Industry
+
+FLOSS can help to develop or support a local IT industry, which in some cases is a secondary mission for the investment of public agencies in software. In the case of proprietary software, the expenditure in licenses usually goes directly to the producer, generating little technological activity in the region.
+
+But in the case of FLOSS, local companies will compete to provide software and services to the administration. FLOSS therefore levels the playing field, making it easier for anyone to compete. Companies with a strong local presence will usually have a competitive advantage, all other factors being equal.
+
+[[staff_empowerment]]
+
+==== Staff Empowerment
+
+Although some FLOSS developers provide excellent support, formally or informally, both the developers and the larger community surrounding the software tend to expect a user to take some responsibility for understanding the software and investigating a problem before asking for help. Whether the user is reporting a bug or merely trying to get information about confusing product behavior, the request should show care, thought, and research; failure to do so in a free-support forum may be received with negative messages that may be perplexing for the user. The availability of source code, while usually not of interest to end users, guarantees that an internal support staff can, eventually, reach an arbitrarily high degree of expertise on the software being employed, and at the same time it provides for the opportunity of creating local modifications that in some instances may provide a significant added value.
+
+These expectations place more of a burden on the agency&rsquo;s IT staff, but the long-term effects can benefit the agency. Staff morale may be improved because these professionals feel they have more control over the resources they&rsquo;re working with, and they have more scope to learn skills they find both interesting and valuable for career advancement.
+
+[[best_practices_management]]
+
+=== Best Practices: Management
+
+The advantages introduced in the previous section are, however, not guaranteed. To really benefit from FLOSS, adoption and deployment have to be successful. Fortunately, after many case studies of transitions to FLOSS in public administration, there is some evidence of good practices that can be considered in new cases.
+
+Good project planning and management are the main prerequisites for a successful migration to FLOSS. Agency leaders must start by understanding the environment in which the software has been developed, as well as have a clear vision of what the agency wants to achieve and the support required to succeed. The differences between FLOSS and proprietary products in development and support require a significant change in procurement and accounting practices. Finally, the use of FLOSS often entails a shift of responsibility from outside contractors to in-house personnel.
+
+[[consider_all_the_factors_both_technical_]]
+
+==== Consider All the Factors, Both Technical and Contextual
+
+Before deciding which products to deploy, and before defining specific implementation or migration plans, it is important to consider all the factors involved. In addition to the usual technical aspects (such as functionality and reliability), decision makers also have to examine factors that could have an impact on future phases of the project, such as licensing (e.g., compatibility with other OSS or proprietary software products), community (the strength of the community surrounding the product), and business (such as the availability of support, or even the level of competitiveness between the companies that provide it).
+
+Some approaches for evaluating OSS projects have been explored as part of the QSOS and FLOSSMETRICS projects, along with examples and tools for facilitating the estimation of parameters such as stability and community liveness.
+
+Pure cost/functionality evaluations usually show only a part of the story, and decisions based only on these factors can lead to problems in the future. A consideration of the software&rsquo;s context can provide a more three-dimensional view that is likely to lead to better strategic decisions.
+
+[[warning-1]]
+
+[WARNING]
+====
+If the evaluation is based only in functionality and cost aspects, project management is probably missing many important issues that could lead to problems in the deployment phases.
+
+
+====
+
+
+[[be_sure_of_managements_commitment_to_the]]
+
+==== Be Sure of Management&rsquo;s Commitment to the Transition
+
+Management support and commitment have been repeatedly found to be one of the most important factors for the success of complex IT efforts, and FLOSS migrations are no exception. This commitment must be guaranteed for a time period sufficient to cover the complete migration. In organizations where IT directors change frequently, or where management changes at fixed periods of time (such as electoral terms), a process must be in place to hand over an understanding of the migration to the new management. The commitment should also extend to funding (as transitions and training will require resources, both monetary and in-house).
+
+Be particularly alert to the involvement of nontechnical managers. The best way to ensure continued coordination is to appoint a team with mixed experience (management and technical) to provide continuous feedback and day-to-day management.
+
+[[warning-2]]
+
+[WARNING]
+====
+If the only people planning the migration are from IT/MIS, there may be insufficient information in upper management and financial planning to continue the migration after the initial step.
+
+
+====
+
+
+[[prepare_a_clear_view_of_what_is_expected]]
+
+==== Prepare a Clear View of What&rsquo;s Expected, Including Measurable Benchmarks
+
+A transition can be started for several reasons, including better control over IT costs, independence from suppliers, more flexibility, or support for open data standards. To be sure that the migration is effectively producing benefits and is going according to plan, you have to know beforehand what indicators will be used to evaluate the progress. Those requirements must be scrutinized to ensure that they are realistic. In particular, expectations of TCO (Total Cost of Ownership) reductions must be compared to publicly available data for other projects.
+
+[[warning-3]]
+
+[WARNING]
+====
+If the only advantage promulgated within the agency for the change is that &ldquo;the software comes from the Net for free,&rdquo; managers will misunderstand both the reasons and the pitfalls of migration and will probably end up with a negative final judgment about the project.
+
+
+====
+
+
+[[make_sure_the_timetable_is_realistic]]
+
+==== Make Sure the Timetable Is Realistic
+
+The introduction of a new IT platform always requires a significant amount of time. As a rule of thumb, the time to perform a full transition to FLOSS is comparable to that of introducing a new agency-wide enterprise resource planning application. The time you expect to perform a less comprehensive change can be scaled accordingly.
+
+[[warning-4]]
+
+[WARNING]
+====
+When migration time is measured in days, and no postmigration effort is planned, the process may be forced to a stop after the allocated resources are exhausted.
+
+
+====
+
+
+[[review_the_current_softwareit_procuremen]]
+
+==== Review the Current Software/IT Procurement and Development Procedure
+
+As adoption procedures are shifted from proprietary software to FLOSS, the procurement and development process needs to be updated accordingly. In particular, the focus may change from acquisition to services, as less software is bought &ldquo;shrink-wrapped&rdquo; (commercially licensed). This change may require further changes in the allocation of the internal IT budget. The plan should take into account a port or transition for internally developed software to multiplatform standards or interfaces that support more standard access methods (e.g., web applications).
+
+[[warning-5]]
+
+[WARNING]
+====
+When no change in procurement and development is planned, management may not have understood the scope of change required for the adoption of FLOSS.
+
+
+====
+
+
+[[seek_out_advice_or_search_for_informatio]]
+
+==== Seek Out Advice or Search for Information on Similar Transitions
+
+A considerable number of companies and public agencies have already performed migrations to FLOSS by now, so it is easy to find information about what to expect and how to proceed. A mainly European-based project called the Consortium for Open Source Software in the Public Administration (COSPA) has developed an link:$$http://www.cospa-project.org$$[online knowledge base concerning such migrations]. Some countries also have FLOSS Competence Centers that provide information and support for the migration process to local agencies.
+
+[[warning-6]]
+
+[WARNING]
+====
+When no previous cases are mentioned, or no study on similar transitions is performed, there is a high risk of missing valuable information about past experiences that could help to avoid known problems and follow known good practices.
+
+
+====
+
+
+[[avoid_big_switch_transition_and_favor_]]
+
+==== Avoid &ldquo;Big Switch&rdquo; Transition, and Favor Incremental Migrations
+
+Most large-scale migrations that are performed in a single, large step (involving the abrupt change from one IT environment to the other) are usually marred by extremely high support and technical costs. While the need to support more than one environment also increases support and management cost, &ldquo;gentle&rdquo; or incremental migrations usually bring a better overall experience for the users and result in minimal disruption of business processes.
+
+An example of gentle migration can begin with the migration of server-side applications, which are usually standards-based or network-based and thus easier to replace, leaving desktop and user-facing applications last. <<phased_migration_to_floss>> depicts such a scheme.
+
+[[phased_migration_to_floss]]
+
+.Phased migration to FLOSS
+image::images/ogov_3201.png[]
+
+A significant advantage of FLOSS is the availability of free online resources, in the form of knowledge bases, mailing lists, and wikis, that often provide support comparable to commercial offerings. The biggest problem is finding such knowledge sources. The IT team should assign at least one person to interact with the FLOSS community or the FLOSS vendor; in the long run, this time commitment can reduce the cost of support. A common way to provide a unified source of information within an organization is to set up a small intranet web page with links to online resources.
+
+[[warning-7]]
+
+[WARNING]
+====
+When no one knows where to find information on the tools that are in use, or when everyone has to conduct web searches on their own for usage tips, the agency is failing to take advantage of online resources, one of the most compelling advantages offered by most FLOSS.
+
+
+====
+
+
+[[promote_collaboration_and_pooling_of_res]]
+
+==== Promote Collaboration and Pooling of Resources
+
+Once your management has decided to adopt a FLOSS solution, one way to multiply the advantages of the choice is to coordinate with other agencies using similar solutions. In fact, FLOSS may become a model for collaboration between public bodies, leading to new and productive forms of working together.
+
+One simple form of collaboration, of course, is to pool resources for improving specific packages, or adapting them to local agency needs. But FLOSS allows for more agile forms of collaboration, often not needing any formal agreement between agencies. A significant example of such cooperation is the distributed improvement of the VistA hospital management system, one of the largest OSS packages in existence;footnote:[VistA is an enterprise-grade health care information system developed by the U.S. Department of Veterans Affairs (VA) and deployed at nearly 1,500 facilities worldwide. It was open-sourced through the Freedom of Information Act (FOIA) that allowed for the source to be publicly available in the public domain. After publication, several groups used the source code as a basis for further improvement, giving back the results.] many other examples are published through the link:$$http://www.osor.eu/$$[EU Open Source Observatory], which provides best practices and case studies on the adoption of OSS in European Public Administrations.
+
+[[best_practices_technical]]
+
+=== Best Practices: Technical
+
+A significant difference between proprietary and FLOSS adoption is the different development model adopted by most open source projects, including differences in the delivery of updates and support. This requires a change in how the agency handles adoption and updates.
+
+[[understand_the_way_floss_is_developed]]
+
+==== Understand the Way FLOSS Is Developed
+
+Most FLOSS projects are based on a cooperative development model, with a core set of developers providing most of the code (usually working for a commercial firm) and a large number of noncore contributors. This development model can provide excellent code quality and a fast development cycle, but requires a significant effort to track changes and updates. The adoption of a FLOSS package should be suggested when:
+
+
+* The project itself is &ldquo;alive&rdquo;; that is, it has an active development community as evidenced by source code contributions and participation in online forums.
+
+
+* There is a clear distinction between &ldquo;stable&rdquo; and &ldquo;unstable&rdquo; software. Many projects maintain two distinct and concurrent development branches, one devoted to integrating new features and another focused on improving stability and bug fixes. Periodically, developers will &ldquo;freeze&rdquo; development to turn the former, unstable version into a new release of the stable one. After that, they will create a new development, bleeding-edge version.
+
+The second practice just described allows developers to satisfy both the users willing to experiment with the latest functionality, and those using the software for day-to-day operations. But the process complicates agency tasks in collecting information and new versions. Agencies may find it easier to ask for a commercially supported version of the software. In many cases, the commercial vendor also contributes new source code and financial backing to the FLOSS project.
+
+[[warning-8]]
+
+[WARNING]
+====
+When the IT manager or the developers think that FLOSS is some kind of commercial software that someone is offering for free on the Net, they will become ineffective when they find that it doesn&rsquo;t &ldquo;just work&rdquo; and that updates take special effort.
+
+
+====
+
+
+[[survey_the_agencys_software_hardware_and]]
+
+==== Survey the Agency&rsquo;s Software, Hardware, and Required Functionality
+
+Migration of an unknown environment cannot succeed. But unfortunately, most companies and agencies have no process for auditing software and hardware platforms, and thus are unable to quantify the number of tools and software that need to be replaced or integrated in a FLOSS migration. A survey process must also take into account the number of concurrent users, average use across the organization, and whether the software uses open or closed communication protocols and data formats. The survey will be the basis for deciding which users to migrate first, and the cost of software redevelopment or migration to a different data format. Automated software inventory tools are available to perform these sorts of surveys. The tools may reduce the cost of the inventory and allow stricter control over installed software (thus reducing the maintenance cost).
+
+Some of the aspects that should be surveyed are:
+
+
+* Data formats in use at all levels: document exchange, database, and network protocol
+
+
+* Applications in use, including standalone programs that are internally developed, macros, and active documents
+
+
+* Available functionality
+
+
+* Shortcomings and problems in the current infrastructure
+
+To justify a migration, management usually has to anticipate that the new software can improve on the current IT infrastructure, either functionally or in aspects of quality (availability, reliability, performance, etc.). But at the very least, it is essential to make sure the new software can fulfill existing functional requirements, which a conscientious survey can do.
+
+[[use_the_flexibility_of_floss_to_create_l]]
+
+==== Use the Flexibility of FLOSS to Create Local Adaptations
+
+The differentiating characteristic of FLOSS is the flexibility and freedom that it gives to users and developers in creating new or adapted versions. This flexibility can greatly enhance the perceived value of FLOSS. For example, it is possible to create customized packages that contain local configurations, special fonts, and other supplemental material such as preset macros and templates in use throughout the organization. Also, a custom look and feel may significantly improve chances that users will accept the software, both by presenting a nicer-looking desktop and by maintaining familiar links and menu entries.
+
+Many users of FLOSS packages have created customizations and integrated them in popular Linux distributions so that other users can select the customizations easily without further coding.
+
+[[much_more_software_is_available_than_wha]]
+
+==== Much More Software Is Available Than What Is Installed by Default
+
+Licensing or design issues limit substantially the amount of software that is usually included in the default installation of the most used Linux distributions. For example, only a few include playback capability for the most common audio and video formats, due to licensing and patent issues. For the same reasons, the distributions leave out some packages that are of interest to only a minority of users.
+
+For this reason, it is important to research and add to the default distributions additional packages that may be valuable in your organization. Such packages include the aforementioned multimedia support, additional fonts, and specialized plug-ins.
+
+[[always_favor_stability_over_functionalit]]
+
+==== Always Favor Stability over Functionality
+
+In the desire to be inclusive and reward participation, FLOSS tends to include optional packages that don&rsquo;t meet the same standards of quality and stability as the core software. Often, many packages provide similar functionality, but some are much more stable and reliable. In general, you should give preference to the one that is most stable. Stable packages have racked up longer experience in the field (and thus more information is available for the administrator) and should suffer from less variability between releases.
+
+[[warning-9]]
+
+[WARNING]
+====
+When the IT administrator wants the latest version of everything on a user&rsquo;s desktop, bugs could not only frustrate the user but also cause unexpected failures in more stable components that eventually lead to rejection of the entire project.
+
+
+====
+
+
+[[design_the_workflow_support_infrastructu]]
+
+==== Design the Workflow Support Infrastructure to Reduce &ldquo;Impedance Mismatches&rdquo;
+
+Every transition from one IT infrastructure to another leads to some _impedance mismatches_, small differences and incompatibilities that keep a process from moving smoothly. This can be observed, for example, when documents travel from one data format to another. The overall infrastructure should reduce the number of such transition points—for example, by redesigning the document templates in the ODT (OpenDocument) open format instead of reusing previously developed versions made using proprietary tools. This reduces greatly the formatting and style differences that arise when one format is translated into another.
+
+[[introduce_a_trouble_ticket_system]]
+
+==== Introduce a Trouble Ticket System
+
+IT staff members can find it hard to assess the degree of difficulty users have in adopting new solutions, as well as general user satisfaction and degree of acceptance. The difficulty increases with the size of the organization. An online trouble ticket system may provide an easy way to collect weak points in the deployment, and can help identify users who need additional training by analyzing per-user submission statistics. The system may also bring weaknesses in the deployment to the surface, such as by highlighting several trouble tickets related to a specific area.
+
+[[warning-10]]
+
+[WARNING]
+====
+When it is difficult or impossible to track the problems and issues perceived during the transition, and how they were addressed, the adoption process is uncontrolled and may be mishandled for lack of information.
+
+
+====
+
+
+[[compile_and_update_a_detailed_migration_]]
+
+==== Compile and Update a Detailed Migration Workbook
+
+A large-scale migration effort requires coordinated action and clear, up-to-date information. The best way to provide this information is through a _migration workbook_, a single point where project members can find the documentation prepared for the migration (including the rationale, the detailed plan, and the technical documentation) and the timetable, updated as the project progresses. This also simplifies project management when there is a change in the team performing the migration.
+
+[[warning-11]]
+
+[WARNING]
+====
+Lacking documentation about the transition process makes it more difficult to overcome problems or to provide to users a clear view of the transition process.
+
+
+====
+
+
+[[best_practices_social]]
+
+=== Best Practices: Social
+
+Although everyone places lip service nowadays to the organizational and psychological pressures users feel during a migration, all too often the IT staff remains blind to these aspects of change or lacks the tools and training to collect information and deal with problems. If left to fester, problems in the social environment for a migration can derail the project.
+
+[[provide_training_and_communication_about]]
+
+==== Provide Training and Communication About the FLOSS Model
+
+A significant obstacle to FLOSS adoption is acceptance by the users, who usually have a very limited knowledge of FLOSS and open data standards. In many cases, FLOSS is perceived as lower quality because it is freely downloadable from the Internet, and users may have had negative experiences with shareware packages or amateur projects. It is important to cancel this perception, and to provide information about how FLOSS is developed, its rationale, and the business models behind it.
+
+In particular, specific training on legal, economic, and sociotechnical aspects should be provided to the different actors involved in FLOSS adoption. This training has to be adapted to their roles and needs, ranging from a strategic vision for decision makers to basic, close-to-the-ground concepts for end users. As an example, for IT managers and decision makers, the following issues should be clearly addressed:
+
+Legal implications:: How to choose licenses for code distribution, and what obligations are enforced by the licenses of the FLOSS programs used
+
+Economic implications:: How sustainable FLOSS ecosystems are formed and maintained, how to work with them to take into account specific agency needs, and the role of public agencies in these areas
+
+Sociotechnical implications:: How FLOSS communities work, including the role of companies and volunteers, and the processes they use to improve quality and respond to the needs of users
+
+This kind of training will ensure that agencies take full advantage of the FLOSS model instead of just grasping its surface. In addition, it will help all actors involved understand the big picture, and how the move to FLOSS is much more than a mere change in technology. Providing factual, unbiased information will also help to mitigate false expectations, while at the same time spreading the word about FLOSS&rsquo;s potential.
+
+Training and communication should not be improvised. On the contrary, one of the first tasks in any move to FLOSS should be the design of a detailed training and communication plan.
+
+[[warning-12]]
+
+[WARNING]
+====
+When a training or communication plan is not a fundamental part of the transition preparation, there may be a lack of coherent information transferred to the users, leading to confusion and unsatisfactory perception of the adoption process.
+
+
+====
+
+
+[[dont_force_the_change_on_users_provide_e]]
+
+==== Don&rsquo;t Force the Change on Users; Provide Explanations Instead
+
+A change in IT infrastructure will force a significant change in how users work and use internal resources, and therefore is likely to arouse their resistance. This natural resistance may be lessened by explaining clearly why and how the change will happen, and the long-term benefits in both internal factors (such as lower cost, better flexibility, and stronger security) and external factors (openness, adherence to international standards, and less burden on external users).
+
+It is important to provide enough information and support to be able to skip the &ldquo;opposition gulf&rdquo; that typically accompanies radical changes.
+
+[[warning-13]]
+
+[WARNING]
+====
+When internal users believe that the sole purpose of a migration is to pay less for software, they resent being burdened with the sacrifice required to make the change.
+
+
+====
+
+
+[[use_the_migration_as_an_opportunity_to_i]]
+
+==== Use the Migration As an Opportunity to Improve Users&rsquo; Skills
+
+Because any new infrastructure calls for training, it may be used as an opening to improve overall IT skills. Historically, public agencies have offered little formal training to their staff members. A conscious allocation of time and funds to training will help not only to improve productivity, but also to increase user confidence and harmonize skills among groups.
+
+The migration may arouse some resistance from the so-called &ldquo;local gurus&rdquo; who could perceive this overall improvement as diminishing their social role as technical leaders. The best way to counter such resistance is to identify those users and offer them higher-level training material. Finally, it&rsquo;s useful to identify local &ldquo;champions&rdquo;—local FLOSS enthusiasts, who, surprisingly, often exist in the agency—who can provide peer support to other users. Management can offer these champions additional training opportunities or recognition.
+
+It&rsquo;s useful to create an internal, intranet-accessible page that provides links to all the different training packages. Both local gurus and champions will take advantage of the resource.
+
+[[warning-14]]
+
+[WARNING]
+====
+Staff members perceiving that their skills with the previous system are going to be wasted after the transition, or who feel uncomfortable because they feel they cannot handle the new system well enough, may resist the transition or participate with limited effort.
+
+
+====
+
+
+[[make_it_easy_to_experiment_and_learn]]
+
+=== Make It Easy to Experiment and Learn
+
+The licensing freedom that is the main point of FLOSS allows for free redistribution of software and in many cases of training material as well. Management can increase staff members&rsquo; expertise and overall project acceptance by taking advantage of this openness, providing users with Linux Live CDs or live USB sticks (which require no hard disk installation) as well as printed material. Users can be encouraged to take them home and play with them to increase their comfort with FLOSS.
+
+Setting up comprehensive information repositories, probably in coordination with other public agencies with the same interests, will also help users probe further. In particular, documents that explain not only the main characteristics of the FLOSS solutions used, but also their limitations and advantages, will help motivated users. FAQs, success stories, and links to websites will show users that their deployment is not an island, but is related to other similar projects worldwide.
+
+[[establish_meeting_points_and_repositorie]]
+
+==== Establish Meeting Points and Repositories
+
+One of the problems to avoid, when asking for a wrenching change in behavior and attitudes, is the perception of isolation. Luckily, one of the main strengths of FLOSS is how it facilitates the replication of solutions and the spread of good practices. Therefore, it is important to establish meeting points, both physical and virtual, where people with responsibility for FLOSS deployments can meet and share experiences.
+
+These points can be used not only by public agency employees, but also by companies providing them with FLOSS-based solutions, thus helping to cancel the impression that there is no support for those solutions. Having a place that developers from the FLOSS community can visit will enable them to understand the specific requirements of public agencies.
+
+Those meeting points should also include repositories, both of software solutions and of case studies. These can spread the benefits of experience and propel the reuse of solutions.
+
+[[conclusion-id021]]
+
+=== Conclusion
+
+The adoption of FLOSS can have a significant positive impact on the IT infrastructure of a public agency. The unique needs and scope of modern agencies, however, require specific attention to the management, technical, and social aspects of adoption to make sure that it is effective and brings the promised advantages. The list of best practices in this chapter will hopefully improve the migration or adoption effort of FLOSS, and provide guidelines to assess the overall process.
+
+[[bibliography]]
+[sect2]
+=== References
+
+. Applied Research and Innovation Fund, InnovationBG 2007 report.
+
+
+. &ldquo;Living with open source: The new rules for IT vendors and consumers,&rdquo; L. Augustin, OSBC 2004 conference.
+
+
+. &ldquo;Open Source Software for the Development of the Spanish Public Administration,&rdquo; CENATIC, Reports CENATIC 01, National Observatory of Open Source Software, Almendralejo, Spain, 2008.
+
+
+. CIOINSIGHT OSS survey, CIOInsight, 2007.
+
+
+. &ldquo;D6.1 Report evaluating the costs/benefits of a transition towards ODS/OS,&rdquo; EU COSPA project.
+
+
+. link:$$http://eu.conecta.it$$[&ldquo;Free Software/Open Source: Information Society Opportunities for Europe?&rdquo; working paper, C. Daffara and J. M. Barahona].
+
+
+. &ldquo;Business models in OSS-based companies,&rdquo; C. Daffara, accepted paper, OSSEMP workshop, Third International Conference on Open Source, Limerick, Ireland, 2007.
+
+
+. &ldquo;Open source going mainstream,&rdquo; Gartner Group, Gartner report, 2006.
+
+
+. link:$$http://ocw.uoc.edu/computer-science-technology-and-multimedia/introduction-to-free-software$$[&ldquo;Introduction to Free Software, Second Edition,&rdquo; Jesus M. Gonzalez-Barahona et al., Fundació per a la Universitat Oberta de Catalunya, Barcelona, Spain, 2008].
+
+
+. link:$$http://www.flossproject.org/papers/20051217/flossworld-intro3.pdf$$[&ldquo;Free/Libre/Open Source Software Worldwide impact study: FLOSSWorld,&rdquo; Gosh, et al., FLOSSWorld project presentation].
+
+
+. &ldquo;Economic impact of FLOSS on innovation and competitiveness of the EU ICT sector,&rdquo; Gosh, et al., November 2006.
+
+
+. Government Policy Towards Open Source
+        Software, W.R. Hahn (ed.), AEI-Brookings, 2002.
+
+
+. link:$$http://www.redbooks.ibm.com/abstracts/sg246380.html?Open$$[&ldquo;Linux Client Migration Cookbook, Version 2: A Practical Planning and Implementation Guide for Migrating to Desktop Linux,&rdquo; IBM, October 2006].
+
+
+. &ldquo;Open Source in Global Software: Market Impact, Disruption, and Business Models,&rdquo; IDC, IDC report, 2006.
+
+
+. link:$$http://www.cio.bund.de/DE/IT-Methoden/Migrationsleitfaden/migrationsleitfaden_node.html$$[Germany: KBSt migration guide].
+
+
+. Democratizing Innovation, Eric Von Hippel, MIT Press, 2005.
+
+[[I_sect132_d1e13464]]
+
+=== About the Authors
+
+
+
+Carlo Daffara is head of research at Conecta, an open source consulting company based in Italy. He is the Italian member of the European working group on libre software, and chairs several other working groups, such as the open source middleware group of the IEEE technical committee on scalable computing and the SME working group of the EU competitiveness task force. His current research activity is centered on the sustainability of OSS-based business models.
+
+
+
+Jesus M. Gonzalez-Barahona teaches and researches at Universidad Rey Juan Carlos, Mostoles (Spain). He first got involved in libre software in 1991. Since then, he has collaborated on several working groups, developed research lines, and initiated training programs. He also collaborates on several libre software projects and associations, writes in various media about topics related to libre software, and consults for companies and public administrations on issues related to their strategies, in the framework of the link:$$http://libresoft.es$$[GSyC/LibreSoft research group].
+

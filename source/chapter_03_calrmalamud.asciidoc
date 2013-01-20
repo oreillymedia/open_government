@@ -1,0 +1,102 @@
+[[by_the_people]]
+[au="Carl Malamud"]
+== By the People
+
+Address to the Gov 2.0 Summit
+
+Washington, D.C.
+
+September 10, 2009
+
+When Abraham Lincoln spoke of &ldquo;a government of the people, by the people, for the people,&rdquo; he was speaking of more than the consecration of a battlefield, he was speaking of a wave of transformation that was changing the way government related to the citizens it served.
+
+This transformation was the second of three waves of change. The first—the Founders&rsquo; wave—began when printers such as Ben Franklin and pamphleteers such as Thomas Paine dared to involve themselves in civic affairs, publishing their opinions about how government should function, the policies it should follow, daring even to say that the people should go so far as to select their own leaders.
+
+This first wave of transformation culminated when Thomas Jefferson took the White House, riding in on a crest of populist sentiment, a reaction against his more button-down predecessors, George Washington and John Adams. While both Washington and Adams were revolutionaries, they were aristocratic revolutionaries, governing from the top down, an elite who favored the populace with public service by governing them.
+
+John Adams took great pains to instill a sense of dignity (some said majesty) in the new offices of government. He designed an official vice presidential uniform and suggested that Washington be addressed as &ldquo;Your Excellency.&rdquo; Adams&rsquo; sense of pomp was such that the Jeffersonians took to referring to him as &ldquo;His Rotundity&rdquo; and a strong sentiment for a more representative and responsive government started to take shape.
+
+When Jefferson moved into the White House after his raucous political campaign, he felt so deeply that his duty was to form a government for all the people of the United States that he abolished the formal dining table in the White House, replacing it with a round one so nobody could sit at the head. Indeed, if you happened to be walking by the White House early in the morning and knocked on the door, you might be greeted by Jefferson dressed in his bath robe, who would likely invite you in for a spot of breakfast.
+
+The first great wave of transformation was a government that spoke, for the first time in modern history, directly to and with its citizens. The second wave—the Lincoln Wave—was just as fundamental.
+
+The same day Lincoln was inaugurated in 1861, a new agency opened its doors, a Government Printing Office with a mission of &ldquo;Keeping America Informed.&rdquo; Prior to Lincoln, the proceedings of government were reported by the press in a summary and sporadic fashion. The proceedings of Congress were reported by the Congressional Globe, a private enterprise, and the executive and legislative branches were reported only if it struck the fancy of a newspaperman.
+
+The Government Printing Office created the first Official Journal of Government, the Congressional Record, which recorded the floors in a full and mostly true fashion. The Printing Office also began publishing the Foreign Relations of the United States, the official record of the State Department, and Superintendent of Documents John Defrees even served as Lincoln&rsquo;s personal editor for messages of state such as the Emancipation Proclamation.
+
+The Lincoln wave of transformation was one of fully documenting government, publishing the rule book that governs our society. But, it was more, it was also the beginning of a formal process of involving citizens in the workings of government, a process which culminated during FDR&rsquo;s New Deal.
+
+This transformation in the nature of government was spurred by broader changes in society, changes that were breathtaking in scope, but often wreaked a terrible toll on workers and families.
+
+In 1911, in a sweatshop on the 9^th^ and 10^th^ stories of a New York tenement, the nation reached a watershed. The Triangle Shirtwaist factory was a sweatshop crowded with unsafe machinery and combustible materials, with no fire escapes and the exit doors chained shut to keep workers from taking breaks. It was a powder keg that would inevitably explode in a firestorm, and it did. The Triangle Shirtwaist Fire claimed the lives of 146 garment workers.
+
+Standing across the street that terrible day in 1911 was a young woman named Frances Perkins, a social worker and the executive secretary of the New York Consumers League, one of a new kind of civic organization advocating better conditions for factory workers. Perkins watched helplessly as young women, hands clasped in prayer, leapt to their deaths. Later, she recalled &ldquo;the experience was seared on my mind as well as my heart—a never-to-be-forgotten reminder of why I had to spend my life fighting conditions that could permit such a tragedy.&rdquo;
+
+Equally touched by the tragedy was a hard-boiled politician, Al Smith of Tammany Hall. Smith was horrified and formed a citizen&rsquo;s commission to investigate. When Theodore Roosevelt was asked who should serve as the chief investigator, Teddy thought of the young social worker he had heard so many good things about, saying &ldquo;with Frances, you can&rsquo;t fail.&rdquo;
+
+Perkins worked alongside a retired fire engineer—who sought her out and insisted on taking part as a volunteer—and with their commission of citizens they created the first fire code, spelling out the minimum standards of safety to be used in factories, offices, and homes. The fire code was adopted by New York City, then spread throughout the nation, joined over time by other fundamental public safety codes governing building, electricity, plumbing, elevators, boilers, and the other technical aspects of our modern society.
+
+When Al Smith took the governor&rsquo;s seat in New York, he brought Frances Perkins with him, installing her on the new Industrial Commission, one of the first state bodies to begin regulating safety in the workplace. Perkins excelled in the post, and when Franklin Roosevelt took the governor&rsquo;s seat from Smith, not only did he ask Perkins to stay on, he promoted her to become one of his senior administrators.
+
+This was an era where commissions and conferences became an important part of government, where citizens were consulted and their opinions heard in order to form a consensus on how government should act. Woodrow Wilson, Warren Harding, and Herbert Hoover used these boards and commissions to decide how to regulate the safety of aeroplanes, finance the creation of roads, and establish new-fangled efficiency mechanisms such as Daylight Savings Time.
+
+This wave of transformation culminated when FDR moved to Washington. By then, these ideas of consultation and documentation had firmly taken root. But in the New Deal, there was chaos.
+
+In 1934, the Assistant Attorney General went to the Supreme Court to argue why two oil companies should be required to obey regulations, only to find out that the government had never published those regulations. Justice Louis Brandeis sternly warned that without systematic publication of the rules, ignorance of the law would become a defense, and a new Official Journal of Government, the Federal Register, was created to serve as the vehicle for systematic publication across all agencies of the regulations and notifications of the executive branch.
+
+To recap this history: The first wave—the Founders&rsquo; wave—established the principle that government must communicate with the people. Next, the Lincoln wave established the principles of documentation and consultation. We are now witnessing a third wave of change—an Internet wave—where the underpinnings and machinery of government are used not only by bureaucrats and civil servants, but by the people. This change has the potential to be equally fundamental.
+
+This transformation has its roots in unlikely quarters. The military took one of the first definitive steps, when a series of satellite launches by the U.S. Air Force from 1978 to 1993 created a Global Positioning System to guide not only the aircraft and ships of the military services, but opened the system to make navigational information available for private cars, truck fleets, commercial aviation, and even unanticipated applications such as location-enabled telephones and digital cameras. At the same time, the U.S. Geological Survey began releasing high-quality digital maps into the public domain.
+
+With the growth of the global Internet as a communications platform, opportunities arose to offer government information differently. It suddenly became possible, and then trivial, to copy entire databases and serve them in a totally different manner.
+
+The operation of a Global Positioning System, coupled with the release by government of extensive digital maps, is an example of what Tim O&rsquo;Reilly calls &ldquo;government as platform,&rdquo; the creation of systems that are used not only by government to fulfill its own tasks, but form the basis for private activities, both for profit and not for profit. (See <<defining_government_2_0_lessons_learned_>>.)
+
+An example of &ldquo;government as platform&rdquo; is a database I helped put on-line in the early 1990s, the Securities and Exchange Commission&rsquo;s EDGAR database of filings of public corporations and other financial institutions. For many years, in order to read SEC reports, one had to go to a special reading room in Washington, asking for specific documents as one would in a closed-stack library or in approaching the service window at the County Clerk&rsquo;s office.
+
+Alternatively, one could subscribe to a few computerized retail information services, and pay the operators $30 to read just one document. In this system, the government produced products to sell, and information was viewed as a profit center for the government and for a few selected concessionaires.
+
+What we found when we placed these so-called products on the Internet—for free—was that these reports were not just fodder for a few well-heeled financial professionals, a commodity used to make the Wall Street money machine function, but instead that these public reports of public corporations were of tremendous interest to journalists, students, senior citizen investment clubs, employees of the companies reporting and employees of their competitors, in short a raft of new uses that had been impossible before.
+
+By exposing the EDGAR database in bulk, the SEC became the platform for a host of new distribution channels, spreading the public filings into the infrastructure and helping to fulfill the SEC&rsquo;s mission of making our markets more efficient and transparent.
+
+&ldquo;Government as platform&rdquo; means exposing the core information that makes government function, information that is of tremendous economic value to society. Government information—patents, corporate filings, agriculture research, maps, weather, medical research—is the raw material of innovation, creating a wealth of business opportunities that drive our economy forward. Government information is a form of infrastructure, no less important to our modern life than our roads, electrical grid, or water systems.
+
+What is hopeful in what we are witnessing today is that some quarters of government appears to be embracing this new role instead of fighting it. One of President Obama&rsquo;s first acts was a memorandum that stated that documents should be no longer be guarded and only grudgingly released, but instead that &ldquo;all agencies should adopt a presumption in favor of disclosure.&rdquo; (See the <<memo_from_president_obama>>.)
+
+While there is much to applaud, not all is sunlight. For too long, access to public information has been a matter of access to inside information, a matter of access to money and power. There is no better illustration of this than access to primary legal materials of the United States: the court cases, statutes, hearings, regulations, codes, administrative decisions, and other materials that define the operating system of our society, the law of the land.
+
+When access to primary legal materials are contracted out to private concerns, as when a state court gives an exclusive contract to a corporation to publish its opinions or when a safety code becomes a revenue opportunity for a nonprofit paying million-dollar salaries, the public domain becomes private property, fenced off to extract value for a few, instead of open as a common good for us all.
+
+We have seen this dramatically in the practice of law, where lawyers in public interest law firms and in government agencies—even the Department of Justice—carefully ration their use of the federal judiciary&rsquo;s PACER database and of the three retail services that monopolize the legal market. They limit their use because of cost considerations, meaning they are more poorly prepared than their adversaries from the private sector.
+
+The costs are not insignificant. The Administrative Office of the Courts has charged the executive branch $50 million simply to access district court records. Law schools all carefully ration their use of PACER because the cost make it unworkable for them to grant law students the ability to read the proceedings of our federal trial courts at will. The Administrative Office of the Courts itself spends $150 million to access U.S. law from private contractors, a small fraction of the $10 billion per year Americans spend to access the raw materials of our democracy.
+
+This is an issue of fundamental importance under our constitution. How can there be equal protection under the law or due process under the law—how can we be a nation of laws, not a nation of men—if the law is locked up behind a cash register, stamped with an unwarranted copyright assertion, and then shrink-wrapped in a license agreement, creating private parcels from the public domain? To purchase in bulk a collection of legal materials costs tens of millions of dollars, a barrier to competition that has resulted in decades of lost innovation for the legal profession.
+
+The fees for bulk legal data are a significant barrier to free enterprise, but an insurmountable barrier for the public interest. Scholars, nonprofit groups, journalists, students, and just plain citizens wishing to analyze the functioning of our courts are shut out. Organizations such as the ACLU and EFF and scholars at law schools have long complained that research across all court filings in the federal judiciary is impossible, because an eight cent per page charge applied to tens of millions of pages makes it prohibitive to identify systematic discrimination, privacy violations, or other structural deficiencies in our courts.
+
+Access to the law, and more broadly, access to the workings of government, the fundamental databases and systems that make up government as a platform for our society, is about more than economic activity, more than improving democracy and justice, it is an opportunity for citizens to help make government more efficient. For example, when we operated the SEC EDGAR database, it was our pleasure to turn all our source code over to the government—and even configure the SEC&rsquo;s routers and loan them hardware—a service we gladly performed at no charge as part of our mission as a 501(c)(3) nonprofit.
+
+I would like to leave you with three propositions that should be true in a democratic society, challenges our government can and should address today:
+
+First, if a document is to have the force of law, it must be available for all to read. Artificial restrictions on access are not appropriate for the law of the land. The federal judiciary, in particular, must make their data much more broadly available or they will find others owning their databases, claiming authority and authenticity that should emanate directly from the courts themselves. This is a foundational issue, one that goes to the very heart of our system of justice.
+
+Second, if a meeting that is part of the law-making process is to be truly public, in this day and age, that means it must be on the Internet. Today, _public_ means _online_. When Congress holds hearings, hearings that lead to laws that we must all obey, those hearings must take place in a forum that all may attend and observe. Today, they do not.
+
+If you want to attend a hearing today, you&rsquo;d best live inside of the Beltway and have the means to hire somebody to guard your place in line. When Congress does webcast, the efforts are half-hearted and of poor quality. Many committees webcast a few select hearings, but then systematically withdraw their archives from the net. Shielding hearings from the public eye reduces the legitimacy of the Congress. Broadcast-quality video from every hearing should be made available on the Internet so our legislative process becomes more visible to all Americans.
+
+Third, the rule of law in our federalist system is a matter that applies to all three branches of the federal government, and also to all 50 states and the local jurisdictions. The principle that primary legal materials should be available to all is a principle that needs to be driven by the leadership of the executive branch and applied to all levels of government.
+
+Our new administration has many noted constitutional scholars—Solicitor General Kagan, Attorney General Holder, President Obama—who must surely understand the importance of making America&rsquo;s operating system open source. Through litigation, legislation, and executive memorandum, the Administration could and should lead a fundamental reform in how we make our laws available to our citizens, turning the private enclaves of today into the public parks of tomorrow.
+
+The promise of the Internet wave is the promise of an opportunity for more efficient government, for more economic activity, and for a better democracy. Artificial and unjust limits on access to information based on money and power can be abolished from our society&rsquo;s operating system, giving us at long last a government that truly is of the people, by the people, and for the people.
+
+[[I_sect13_d1e2678]]
+
+=== About the Author
+
+
+
+Carl Malamud is the founder of link:$$http://public.resource.org/$$[Public.Resource.Org], a nonprofit that has been instrumental in placing government information on the Internet. Prior to that he was the Chief Technology Officer at the Center for American Progress and was the founder of the Internet Multicasting Service, where he ran the first radio station on the Internet.
+

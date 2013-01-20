@@ -1,0 +1,130 @@
+[[you_can_be_the_eyes_and_ears_barack_obam]]
+[au="Micah L. Sifry"]
+== &ldquo;You Can Be the Eyes and Ears&rdquo;: Barack Obama and the Wisdom of Crowds
+
+On his first full day in office, President Barack Obama issued an executive memorandum that may someday be seen as signaling the most important shift in how government works in the United States since the rise of the New Deal. His subject? Not jobs or health care or the environment, but &ldquo;transparency and open government.&rdquo; In five succinct paragraphs, he promised to create an &ldquo;unprecedented level of openness in Government&rdquo; (see the <<memo_from_president_obama>>). &ldquo;We will work together to ensure the public trust and establish a system of transparency, public participation, and collaboration,&rdquo; he wrote, arguing that it would &ldquo;strengthen our democracy and promote efficiency and effectiveness in Government.&rdquo;
+
+Most significantly, he declared that in addition to making government more transparent, it should become more participatory and collaborative:
+
+[quote]
+____
+Public engagement enhances the Government&rsquo;s effectiveness and improves the quality of its decisions. Knowledge is widely dispersed in society, and public officials benefit from having access to that dispersed knowledge. Executive departments and agencies should offer Americans increased opportunities to participate in policymaking and to provide their Government with the benefits of their collective expertise and information…. Executive departments and agencies should use innovative tools, methods, and systems to cooperate among themselves, across all levels of Government, and with nonprofit organizations, businesses, and individuals in the private sector.
+
+
+____
+
+
+Obama&rsquo;s language was dry, but the message is clear: in essence, he is pointing toward a third way between the stale left-right dichotomy of &ldquo;big government&rdquo; versus &ldquo;smaller government.&rdquo; Effective government, Obama is suggesting, may be found by opening the bureaucracy to direct public monitoring, engagement, and, where viable, collaboration. Is Obama calling for the federal government to embrace the wisdom of crowds? The signs certainly abound.
+
+[[changegov_shows_how_to_change_the_gov]]
+
+=== Change.gov Shows How to Change the Gov
+
+The most robust moves came early, undertaken by Obama&rsquo;s transition team during the weeks after the election but before his inauguration, when his team&rsquo;s use of the Web wasn&rsquo;t yet fully constrained by government traditions and legal hurdles. A number of valuable experiments came in quick succession.
+
+First, on Change.gov, the official transition website, visitors were invited to &ldquo;Join the Discussion&rdquo; on topics such as health care reform, the economy, and community service, and rate the comments made by others. Several thousand people participated.
+
+Then the transition team launched &ldquo;Open for Discussion,&rdquo; a gigantic online forum where people were invited to post questions and to vote the best ones up.footnote:[link:$$http://www.whitehouse.gov/open/innovations/OpenforQuestions/$$[http://www.whitehouse.gov/open/innovations/OpenforQuestions/]] Over the course of two rounds, more than 120,000 people voted nearly 6 million times on more than 85,000 questions. In both cases, top administration officials offered answers to a handful of the top-voted issues.
+
+Finally, there was the &ldquo;Citizens&rsquo; Briefing Book,&rdquo; an attempt at making sure that at least some iconoclastic ideas from the public made their way, unfiltered, directly into the president&rsquo;s hands. More than 125,000 people voted on more than 44,000 submissions, and several months later, the White House Office of Public Engagement released a 32-page PDF along with a video showing Obama holding the report.footnote:[link:$$http://www.whitehouse.gov/blog/Meet-the-Office-of-Public-Engagement-and-the-Citizens-Briefing-Book$$[http://www.whitehouse.gov/blog/Meet-the-Office-of-Public-Engagement-and-the-Citizens-Briefing-Book]]
+
+[[you_can_be_the_eyes_and_ears]]
+
+=== &ldquo;You Can Be the Eyes and Ears&rdquo;
+
+But the transition website was just the beginning. Early in his administration, Obama made several declarations about how his approach to government, and in particular the giant &ldquo;Economic Recovery&rdquo; spending plan that was the major legislative priority of his first months in office, would be informed by direct public participation in the process. In one online video, he told his supporters that this program would be conducted &ldquo;with unprecedented transparency and accountability.&rdquo; Clearly aware that his critics were already predicting &ldquo;big government&rdquo; would waste hundreds of billions in taxpayer dollars, he added:
+
+[quote]
+____
+I&rsquo;ll appoint an aggressive Inspector General and a cabinet level oversight board to make sure your money is spent wisely. More importantly, I&rsquo;ll enlist all of you. As soon as this plan is signed into law, Recovery.gov goes live and you&rsquo;ll be able to see precisely where your tax dollars are going. Because this is your democracy, and as I said throughout the campaign, change never begins from the top down. It begins from the bottom up.
+
+
+____
+
+
+A day later, on February 9, 2009, while selling his recovery plan at a town hall meeting in economically devastated Elkhart, Indiana, Obama went further in explaining his vision for using the social Web to crowdsource the watchdogging of government spending:
+
+[quote]
+____
+We&rsquo;re actually going to set up something called Recovery.gov—this is going to be a special website we set up, that gives you a report on where the money is going in your community, how it&rsquo;s being spent, how many jobs are being created so that all of you can be the eyes and ears. And if you see that a project is not working the way it&rsquo;s supposed to, you&rsquo;ll be able to get on that website and say, &ldquo;You know, I thought this was supposed to be going to school construction but I haven&rsquo;t noticed any changes being made.&rdquo; And that will help us track how this money is being spent…. The key is that we&rsquo;re going to have strong oversight and strong transparency to make sure this money isn&rsquo;t being wasted.
+
+
+____
+
+
+&ldquo;I&rsquo;ll enlist all of you.&rdquo; &ldquo;You can be the eyes and ears.&rdquo; These are the words of someone who clearly understands the power and wisdom of a crowd, and the axiom that all of us are smarter than any one of us.
+
+[[recoverygov_site_still_under_constructio]]
+
+=== Recovery.gov Site Still Under Construction
+
+But it&rsquo;s one thing for the president to promise to involve the public in a fundamentally new way in their government, and another to get government agencies and leaders to actually change how they do business. As of the fall of 2009, the implementation of Obama&rsquo;s vision remained sketchy at best.
+
+For starters, Recovery.gov, which in Obama&rsquo;s own words was meant to play a central role in collecting, displaying, and tracking how billions in new monies are spent, was for most of the year just a placeholder of a website showing only top-line data and graphics on what was supposed to be happening, not an actual data trove for citizen engagement.
+
+The inspector general in charge of that program, Earl Devaney, admitted that it would take at least until the fall before the site contained much detailed information, but after a $9.5 million crash contract to redesign the site, it still wasn&rsquo;t inspiring much confidence among transparency advocates. The revised site did contain tools enabling fairly granular data lookups and nifty maps showing where funding and jobs were supposedly occurring, but the lack of recipient reports made those tools relatively hollow. Similarly, users were encouraged to post reports of possible fraud, waste, or abuse, but the site didn&rsquo;t make those reports available in any fashion. In addition, Devaney promised to reach out to &ldquo;citizen inspectors general&rdquo; on social networking sites such as Facebook and Twitter, to help him surface problems, but compared to Obama&rsquo;s early promises of civic engagement, Devaney&rsquo;s words seemed mostly like gestures without strong follow-up.
+
+[[online_town_hall_or_participation_theat]]
+
+=== Online Town Hall or &ldquo;Participation Theater&rdquo;?
+
+In terms of involving the public in a meaningful discussion of policy priorities, the Obama administration clearly chose to crawl before it walked, let alone ran. Or to use a less clichéd metaphor, Obama&rsquo;s early moves were marked by an odd dichotomy: one leg of his administration seemed ready to race ahead, trying out new interactive experiments, while the other leg seemed to want to stand in place and control the discourse.
+
+For example, twice in the first six months of 2009, Obama held an interactive &ldquo;online town hall&rdquo; where the public was invited to submit questions in advance and the president responded during a live webcast done in tandem with an in-the-flesh town hall meeting.
+
+First, in late March, his new media team held an online town hall about the economy where for two days anyone could post a question on the White House website or vote one to the top of the pile. Then Obama held a live webcast from the White House where he pointedly responded to most of the top-voted questions. Nearly 93,000 people submitted more than 100,000 questions, and more than 3.6 million votes were cast on them. Tens of thousands watched the event live online. The forum was generally deemed a success, but it hit one discordant note when Obama made fun of the fact that questions about legalizing marijuana did surprisingly well in the online voting. &ldquo;I don&rsquo;t know what this says about the online audience,&rdquo; he chuckled, ignoring the fact that somewhere between 40% and 50% of U.S. voters favor the reform.footnote:[See link:$$http://www.pollingreport.com/drugs.htm$$[]. For example, 46% favor the legalization of small amounts of pot for personal use (Washington Post poll from April 2009), and 44% are in favor of making the use of pot legal (Gallup poll from October 2009).]
+
+Then, in early July, the president held another online town hall meeting on health care reform, but despite using sites such as YouTube, Facebook, and Twitter to invite the submission of questions from the public, this event was far less interactive than his first. Obama said he&rsquo;d answer some of the &ldquo;more popular&rdquo; questions, but there was no mechanism established to determine which ones were indeed popular. Instead, his staff chose which questions he would be asked to respond to, producing an event that was less spontaneous and less town-hall-like than if all the questions had come from citizens live at the event using no technology at all. Reporters at the daily White House briefing peppered Press Secretary Robert Gibbs with critical questions about the event, attacking it as a sham. My colleague at Sunlight Foundation, Ellen Miller, called it &ldquo;transparency theater,&rdquo; though the more precise term would be &ldquo;participation theater.&rdquo;
+
+The seeming reluctance of the Obama operation to allow the public to inject its own preferences into a White House media event is rooted in a traditional understanding of how important it is to always control your message. But back in 2008, candidate Obama seemed unfazed by the prospect of involving the public in such events in a more free-form fashion. When the Open Debate Coalition, a cross-partisan group of reform advocates, was pushing for the use of &ldquo;bubble-up&rdquo; style public question filtering for the national debates, in particular for the one &ldquo;town hall&rdquo;-style debate, Obama declared his support for the concept (as did his opponent, Senator John McCain). Obama wrote:
+
+[quote]
+____
+Town hall debates such as the October 7 debate provide an excellent opportunity to utilize technology to give voters more of a role in determining which questions are selected and asked. For example, during the MTV forum in which I participated last year, the Internet community voted to ask a question regarding my position on network neutrality, which I support. I support the use of such technology in debates as the Coalition proposes in its letter.
+
+
+____
+
+
+It remains to be seen whether President Obama will listen to candidate Obama on this issue.
+
+[[open_data_and_open_government]]
+
+=== Open Data and Open Government
+
+Fortunately, the progress of Obama&rsquo;s call for a more open, participatory, and collaborative government isn&rsquo;t dependent on change solely in how the White House manages its most precious political asset, the president and his ability to communicate directly with the American people. Obama&rsquo;s call for change, coupled with the hiring of several leaders in the fields of open data and open government, has set off ripples across the federal government. CIOs and web managers in hundreds of departments and agencies are embracing this change in tone, and policy, to engage in all kinds of new approaches. A long list of agencies are now using YouTube, Facebook, MySpace, and dozens of less well-known but equally potent Web 2.0 platforms, thanks to efforts by the White House new media team and the U.S. Government Accountability Office (GAO) to negotiate acceptable terms of service with these third-party services. At least 68 agencies have official Twitter accounts (those were the ones the White House was following from its official Twitter account). And several agencies, such as the U.S. Environmental Protection Agency (EPA), have begun to roll out their own initiatives to make their piece of government more transparent.
+
+The biggest developments of note were the launch of link:$$http://www.data.gov$$[Data.gov] and link:$$http://it.usaspending.gov$$[IT.usaspending.gov] by White House CIO Vivek Kundra, and the &ldquo;open government initiative&rdquo; launched by the Office of Management and Budget (OMB) and the Office of Science and Technology Policy (OSTP) and led by deputy CTO Beth Noveck. Each of these efforts represents the finest distillation of Obama&rsquo;s principles into practice, and their emergence in the first six months of his administration is a sign of real promise.
+
+Kundra&rsquo;s work in opening up raw government data in structured, machine-readable form is positively revolutionary. Literally hundreds of thousands of data streams are coming online at Data.gov, and in the process a whole new kind of public engagement with public information is being enabled. His willingness to launch the site before all these data sets were identified, and to also enable users to openly rate the quality of the data on the site, are subtle but significant shifts in how government conducts information technology (IT) projects, moving away from control and perfection and toward iteration and interaction. This is also the case with IT.usaspending.gov, which showcases user-friendly &ldquo;dashboards&rdquo; to help the public (as well as government leaders) track tens of billions in IT spending. &ldquo;We want to tap into the ingenuity of the American people to show us a better, innovative path,&rdquo; Kundra told a rapt audience at the Personal Democracy Forum in June 2009, as he described his approach to iterative website development.
+
+A similar willingness to give up partial control and invite freewheeling public participation has characterized Noveck&rsquo;s leadership of the Open Government Directive. For several weeks between late May and early July 2009, the public was invited to participate in a series of open online conversations about Obama&rsquo;s day-one transparency memorandum. The goal, in Noveck&rsquo;s words, was to create a &ldquo;structured dialog&rdquo; aimed at the &ldquo;co-creation of government&rdquo; with &ldquo;many people participating in the process.&rdquo;
+
+The process started with an online brainstorm using IdeaScale, a third-party platform that enables Digg-style voting to bubble up popular suggestions. In a short period of time, about 4,000 people had posted more than 1,100 ideas and thousands of comments, and cast more than 30,000 votes to help rank them. Then the public was invited to comment on a series of detailed blog posts. And finally, participants were given the opportunity to actually help draft each of 16 distinct sections of the draft directive, using the collaborative writing tool Mixed Ink. A total of 375 participants wrote 305 different drafts across those 16 topics, and voted 2,256 times on those drafts to help produce some promising policy language.
+
+This open process wasn&rsquo;t without its bumps. Especially in the early stages, the OSTP site was bombarded with comments from members of the public with their own narrow concerns, including people who believe Obama&rsquo;s birth certificate is invalid. These &ldquo;birthers&rdquo; were, in many cases, driven to Noveck&rsquo;s site by right-wing websites and bloggers, and for a time their voices appeared to drown out those of people genuinely interested in proposing improvements in government transparency practices. To a casual visitor of the site, it might have appeared that it had been hijacked. But Lena Trudeau, vice president of the National Academy of Public Administration, which hosted that phase of the process, said it was an overall success.
+
+She did tell link:$$http://www.fcw.com/Articles/2009/07/20/FEAT-Lena-Trudeau-QandA.aspx$$[Federal Computer Week], however, that after an initial burst of participation by members of the public who wanted to contribute constructive suggestions, the IdeaScale phase of the initiative hit some turbulence. She noted, &ldquo;Part of the theory behind the site was that the community would help moderate it. Well, the challenge that you have is, when a large part of the constructive community goes away, you&rsquo;re left with people who may not have the full context of what you are trying to accomplish or they may have their own agendas. And that&rsquo;s just something we need to know and understand if we are going to be using more of these tools and approaches in the policy evolvement process.&rdquo;
+
+[[co-creation_co-optation_or_collision]]
+
+=== Co-creation, Co-optation, or Collision?
+
+It remains to be seen just how far the administration will go toward implementing Obama&rsquo;s vision of change fostered by making government more open, participatory, and collaborative. In part, this is because he is juggling many difficult priorities at once. In part, this is because he and the innovators he has appointed to pioneer these changes are traveling uncharted territory. And finally, by offering to involve and empower the public in &ldquo;co-creating&rdquo; government, Obama is unleashing an inherently disruptive force.
+
+As his administration&rsquo;s early experiments with crowdsourcing have shown, hundreds of thousands of Americans are eager to take up his call to participate in new ways—and that&rsquo;s without his having pushed hard to publicize the opportunity. What happens when those numbers climb into the millions, and people who have been invited to have a voice now expect to be listened to?
+
+It isn&rsquo;t just that online collaborative platforms for public input and participation can be gamed, and thus special interest groups or semiorganized pranksters can seemingly hijack such sites to make mischief. Ideally, the more often government enables such interaction to happen, the less meaningful those disruptions will become. It&rsquo;s when the chance to participate is kept rare that the value of gaming these sites is at its highest.
+
+The more difficult issue for advocates of opening up a process of &ldquo;co-creating&rdquo; government is what may happen when newly empowered citizens inevitably collide with entrenched interests. Obama&rsquo;s vision of enlisting the public in a new, socially conscious and transparent process of improving how government works—&ldquo;You can be the eyes and ears&rdquo;—may be exhilarating, but it also may lead to all kinds of unexpected consequences. The subcontractor who is skimming recovery funds that are supposed to be spent on building that new school may be a cousin of the local mayor, who may be tied to the Democratic Party, or his workers may belong to a construction union that endorsed the president&rsquo;s election. In other words, local e-democracy, Obama-style, could easily crash head-on into local power politics.
+
+We don&rsquo;t know yet how this story will play out. But the evolving history of the social Web offers one encouraging hint. From Wikipedia to Craigslist to Amazon to Google, the Web keeps rewarding those actors who empower ordinary users, eliminate wasteful middlemen, share information openly, and shift power from the center to the edges. Applying those same principles to government will undoubtedly be messy, but Obama has one thing going for him: it is where technology is already taking us.
+
+[[I_sect19_d1e5327]]
+
+=== About the Author
+
+
+
+Micah L. Sifry is cofounder and editor of the link:$$http://www.personaldemocracy.com$$[Personal Democracy Forum], a website and annual conference that covers the ways technology is changing politics, and link:$$http://www.techpresident.com$$[TechPresident.com], an award-winning group blog about how the American presidential candidates are using the Web, and how the Web is using them.
+
