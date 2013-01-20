@@ -5,6 +5,7 @@ The following authors have also contributed the [Markdown](http://daringfireball
 * Chapter  3.  By the People, Carl Malamud
 * Chapter  9.  "You can be the eyes and ears": Barack Obama and the Wisdom of Crowds, Micah Sifry
 * Chapter 12.  After the Collapse: Open Government and the Future of Civil Service, David Eaves
+* Chapter 15.  Case Study: Tweet Congress, [Wynn Netherland](http://wynnnetherland.com) and Chris McCroskey
 * Chapter 21.  Going 2.0: Why OpenSecrets.org Opted for Full Frontal Data Sharing, Sheila Krumholz
 * Chapter 29.  Open Government: The Privacy Imperative, Jeff Jonas and Jim Harper
 * Chapter 31.  Gov→Media→People, Dan Gillmor

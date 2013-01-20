@@ -1,0 +1,129 @@
+[[tweet_congress_build_an_app_start_a_move]]
+[au="Wynn Netherland", au2="Chris McCroskey"]
+== Case Study: Tweet Congress
+
+&ldquo;_We the Tweeple of the United States, in order to form a more perfect government, establish communication, and promote transparency, do hereby tweet the Congress of the United States of America_.&rdquo;
+
+Open government empowers citizens to participate. Participation means more than just voting. Participation means applying your unique set of talents to improve the government that works for you. It means pausing in that moment when you ask yourself &ldquo;Why does the system work this way?&rdquo; or &ldquo;Wouldn&rsquo;t it be great if people could do such and such?&rdquo;—and when you ask the real question: &ldquo;What can I do about it?&rdquo; That&rsquo;s exactly how Tweet Congress came about.
+
+[[about_tweet_congress]]
+
+=== Tweet Congress: Build an App, Start a Movement
+
+TweetCongress.org provides a directory of all congressional Twitter users and aggregates their _tweets_, short microblogging updates of up to 140 characters in length. The mission of Tweet Congress is to promote transparency on Capitol Hill. We lobby members of Congress to forgo the usual PR blasts and use Twitter and other forms of social media to engage their constituents in more meaningful, conversational _dialogue_.
+
+[[the_idea]]
+
+==== The Idea
+
+On a Friday afternoon in December 2008, we stumbled across our congressman, Rep. Michael Burgess, R-Texas, on Twitter (_@michaelcburgess_). We thought it noteworthy that a politician not running for national office would be using social media in this way, so we tweeted it out to our Twitter followers. While looking for our Texas senators on Twitter, we had the idea of building a list of every tweeter in Congress, saving other folks the legwork of finding them. We wanted a single site that would allow people to find, follow, and engage on Twitter the people they had sent to Washington.
+
+[[building_the_app]]
+
+==== Building the App
+
+To let people find their elected officials we needed to:
+
+
+* Find everyone from Congress who was on Twitter.
+
+
+* Find or build a lookup service that let users find their reps by searching by zip code.
+
+As a double bonus, a search on ProgrammableWeb.com led us to Sunlight Labs. Not only does Sunlight Labs provide an application programming interface (API), a way for web applications to expose functionality to other applications, but it also had a list of 30 Twitter usernames for members of Congress. We had our seed data!
+
+Thoroughly well-documented APIs from Twitter and TwitterCounter.com meant we could present data from Twitter and follower stats from TwitterCounter on our own app with minimal effort.
+
+[[open_source_fuels_open_government]]
+
+===== Open source fuels open government
+
+It&rsquo;s important to highlight the importance of open source software in creating Tweet Congress. To those unfamiliar with the concept, open source software is software distributed as source code, allowing others to freely modify and build on it. Our web application framework, Ruby on Rails, is an extremely popular open source tool for creating web applications. Our database engines, MySQL and MongoDB, are also open source. We used a Ruby language wrapper for the Twitter API from John Nunemaker (_@jnunemaker_) and a wrapper for the Sunlight API from Luigi Montanez (_@LuigiMontanez_), both also open source projects.
+
+We mention each of these only to show how cheaply we were able to develop Tweet Congress. Our only costs were our time, a hundred bucks a month in hosting fees, and a few dollars for some stock art to create the logo. We were successful only because many, many people created great software, most with no clue how it was going to be used.
+
+[[be_someone_elses_foundation_set_your_app]]
+
+===== Be someone else&rsquo;s foundation, set your app free
+
+If you&rsquo;re considering building your own open government application, the good news is you&rsquo;ve got a leg up. At latest count, ProgrammableWeb.com reports link:$$http://www.programmableweb.com/apis/directory/1?apicat=Government$$[31 publicly available APIs with all sorts of juicy bits of government data].
+
+After you&rsquo;ve added value on top of that open source software and free API data, pay it forward. At Squeejee, we open-sourced a version of Tweet Congress as Floxee Community Edition, allowing others to build their own Twitter directories by starting from our baseline. We also offer a hosted version at Floxee.com (for the less technically inclined), and we work with public policy organizations at the state level to build their own state versions of Tweet Congress. TweetIllinois.org demonstrates how the idea is spreading to state legislatures.
+
+Our experience in software development has taught us that most problems are people problems, not technical problems. Tweet Congress proved this to be the case as well. The first version of the site was completed over that first weekend, and then the real work began.
+
+[[starting_the_movement_we_are_all_lobbyis]]
+
+=== Starting the Movement: We Are All Lobbyists Now
+
+Early on, we were embarrassed that our state, Texas, a state with 34 members of Congress, had only three elected officials on Twitter. So, we started locally and began the task of calling each congressional office and lobbying them on behalf of Twitter and Tweet Congress. To our frustration (but not surprise), we found it impossible to get past the gatekeepers and speak directly to members of Congress or senators. We did, however, find most of the press secretaries we spoke with receptive to using Twitter to engage voters. We immediately saw a jump in the adoption of Twitter by elected officials in Texas. Many saw it as an opportunity to get their message out to constituents, unfiltered by old media. Some reps, however, did not immediately see the value.
+
+When we phoned Rep. Luis Ghomert&rsquo;s office in Texas&rsquo;s First District, we explained the benefits of Twitter to his press secretary and how we provided the ability for constituents to easily find elected officials on Tweet Congress. &ldquo;We just aren&rsquo;t going to be interested in ‘the Twitter,&rsquo;&rdquo; she said. We tried to explain that this was a great new tool for the congressman to use to communicate with his constituents, and again we were cut off. &ldquo;We just aren&rsquo;t interested,&rdquo; she repeated. We thanked her for her time and we ended the call.
+
+At this point, we decided to enlist our own Twitter followers to help our cause. After all, one of the realities of social media and open government is that _we are all lobbyists now_. At that time, we had about 3,000 followers. When we sent out a tweet that declared Rep. Ghomert was not interested in &ldquo;the Twitter,&rdquo; it caught fire and was quickly tweeted again and again, reaching upward of 8,000 people within minutes! We wish we could report that Rep. Ghomert is now a social media user, but it&rsquo;s clear that some elected officials ignore the medium with that kind of reach at their own peril.
+
+[[inflection_point]]
+
+==== Inflection Point
+
+We continued to promote Tweet Congress mainly from our own _@tweetcongress_ Twitter account. As our list of reps grew, so did our own following (almost 10,000 Twitter users as of this writing). Some positive press from the media, including The Economist, USA Today, and Mashable, helped lend some credibility to our cause, but the inflection point happened on a Tuesday night in February 2009.
+
+When President Obama gave his first address from the House Chamber, the media picked up on a large number of members of Congress thumbing away on their BlackBerry devices. While many thought they were texting, it soon became apparent that they were live-tweeting their response to the president&rsquo;s speech. As the buzz spread across Twitter, word soon spread that Tweet Congress provided the only place to see all the congressional tweets in one spot. Suddenly, we had an influx of new people, previously unreached, who wanted to find and engage their reps on Twitter.
+
+[[so_who_gets_it]]
+
+=== So, Who Gets It?
+
+Rep. John Culberson (_@johnculberson_), R-Texas, and Senator Claire McCaskill (_@clairecmc_), D-Mo., set the standard for Twitter use in Congress. Conversational and tech-savvy, they have been great supporters of our mission at Tweet Congress to get elected officials in Washington on Twitter.
+
+John Culberson is a political Twitter Rock Star. He will talk to anyone on the Hill who wants to listen about the benefits of using Twitter. An early adopter, Congressman Culberson is and has been the most active tweeter in Washington. Not only does he use Twitter effectively to communicate his daily activity and work in Washington, but he also believes that he should, since he is accountable to the voters who sent him to the Hill.
+
+In our software development business, we wouldn&rsquo;t dream of employing someone and not have some accounting of her time. Yet this is business as usual in Washington. We encourage all elected officials to imitate John Culberson in his use of Twitter for this purpose.
+
+Another shining example is Claire McCaskill. Claire (we use her first name only because that&rsquo;s how approachable she is on Twitter) is probably the most human of all politicians you&rsquo;ll see on Tweet Congress. Her updates are insightful, concerning not only politics but also her personal life. You can&rsquo;t follow _@clairecmc_ and not like her. Senator McCaskill updates followers about time spent with her family and about her mother. Some people think this is trivial and just want politics, but we think Senator McCaskill understands that being a great communicator means connecting with people on an emotional level. Senator McCaskill has more than 28,000 followers. The people who follow her sought her out and want to hear what she has to say. She also understands that instead of enlisting support every six years, with Twitter she maintains a relationship between election cycles. She will have thousands of people who feel like they know her personally when they go to the polls.
+
+[[impact]]
+
+=== Impact
+
+Tweet Congress has had a tremendous impact on how social media is used in government. For instance, one of the great things we&rsquo;ve seen on Tweet Congress is what we like to call &ldquo;the TC effect.&rdquo;
+
+[[the_tc_effect]]
+
+==== The TC Effect
+
+When we add new people to the Tweet Congress directory, they immediately see a jump in new followers. When we added Senator Jim DeMint (_@jimdemint_) of South Carolina to Tweet Congress in late January 2009, we saw his follower count explode. DeMint had 652 followers in September 2008. On January 23, 2009, the day we added him to the Tweet Congress list, he had 2,165 followers. A week later, he had more than 4,000 followers. Today, Senator DeMint has almost 23,000 followers and is the third most-followed Twitter user in Congress.
+
+We don&rsquo;t claim to take all the credit for Senator DeMint&rsquo;s meteoric rise in popularity, but we like to think we had a little something to do with it. People are hungry to communicate with their elected officials and those officials should be just as hungry to let their constituencies know how they are representing them (see <<senator_demints_twitter_follower_numbers>>).
+
+[[senator_demints_twitter_follower_numbers]]
+
+.Senator DeMint&rsquo;s Twitter follower numbers
+image::images/ogov_1501.png[]
+
+[[a_valuable_resource]]
+
+==== A Valuable Resource
+
+Since Twitter indexes tweets for only the previous six days, Tweet Congress has become a resource as the only archive for congressional tweets. Both the public and the media use our site to see what folks in Congress are tweeting about a particular subject. Since we also extract links from tweets and display any photos and videos in them, a better resource for seeing a day in the life of your congressperson simply does not exist.
+
+[[conclusion-id009]]
+
+=== Conclusion
+
+Perhaps the biggest impact Tweet Congress has made has been on us personally. We have developed scores of relationships with people we most likely would have never known otherwise, including members of Congress, their staff members, D.C. social media personalities, talented software developers, and very passionate, engaged citizens.
+
+The site has also opened doors for us professionally that might not have been opened had we not pursued the idea. We were honored to win the Activism category at the 2009 South by Southwest Web Awards. This led to a speaking engagement at RailsConf in Las Vegas, an industry conference. This led to the opportunity to write the chapter you&rsquo;re reading. We were humbled by all three opportunities and mention them here only to encourage you, the reader, to take a chance on an idea, no matter how small. You never know what might come of it.
+
+[[I_sect115_d1e7212]]
+
+=== About the Authors
+
+
+
+Wynn Netherland loves the creative side of building software, from brainstorming with clients to designing the solution to executing the idea. The author of two programming books, he has more than 10 years of web application development experience. With a passion for building great user interfaces, he is a rare programmer that feels equally comfortable in a text editor, a command-line shell, or Adobe Photoshop. He&rsquo;s had the opportunity to help create some very cool things, like Tweet Congress, which took home a SXSW Web Award in 2009.
+
+
+
+Chris McCroskey is a director at Rockfish Interactive, a full-service interactive marketing agency located in Bentonville, Arkansas. Prior to joining Rockfish, Chris was active in the worlds of social media and politics. He is the cofounder of Tweet Congress, a website that initially began as a grassroots effort to encourage politicians on Capitol Hill to begin tweeting with constituents. Tweet Congress went on to win the Web Award at the annual SXSW Conference in Austin, Texas and garnered coverage from various publications and websites including Politico, Mashable, USA Today, and The Hill. Chris is an active speaker on the topics of social media and politics and has spoken at the National Conference of State Legislatures, World Affairs Council, and the U.S. Department of State International Visitors Program.
+
