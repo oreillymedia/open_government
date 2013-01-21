@@ -11,4 +11,4 @@ The following authors have also contributed the [Markdown](http://daringfireball
 * Chapter 31.  Gov→Media→People, Dan Gillmor
 * Chapter 32.  Open Source Software for Open Government Agencies, Carlo Daffara and Jesus M. Gonzalez-Barahona
 
-Please note: if you're an author and would like to contribute the the source of your contribution, we can provide you with the raw text marked up as AsciiiDoc (sort of like Markdown on steroids.)  To request the file, please submit an issues and someone from O'Reilly will get back to you.
+Please note: if you're an author and would like to contribute the the source of your contribution, we can provide you with the raw text marked up as AsciiDoc (sort of like Markdown on steroids.)  To request the file, please submit an issues and someone from O'Reilly will get back to you.
