@@ -2,6 +2,7 @@
 [au="Sheila Krumholz"]
 == Going 2.0: Why OpenSecrets.org Opted for Full Frontal Data Sharing
 
+
 The day arrived, rife with anticipation—and laced with trepidation. It was April 14, 2009 when the Center for Responsive Politics (CRP; link:$$http://www.opensecrets.org/$$[]) made our value-added campaign finance, lobbying, and other political finance data (coded by industry, standardized by organization and individual) fully &ldquo;open&rdquo; for the first time in our 26-year history. We had been guarding the &ldquo;crown jewels&rdquo;—the detailed transaction-level data that are the building blocks for everything we do—and here we were, financially strapped ourselves, but giving away what we considered precious gems. As an NGO that tracks money in politics, we are passionate about our data and particularly convinced of the need for unbiased, unassailable data of the kind CRP produces. And this data is unique at the federal level. There&rsquo;s nothing comparable to what we produce, in part because we pour our passion into creating and maintaining this trusted resource. CRP&rsquo;s data and nonpartisan analysis provide the public with the information they need to hold their government accountable while also educating the public about how money and elite influence so often control who wins political office and what laws get passed.
 
 [[the_decision_to_let_go_of_the_data]]

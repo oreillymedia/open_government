@@ -2,6 +2,7 @@
 [au="Wynn Netherland", au2="Chris McCroskey"]
 == Case Study: Tweet Congress
 
+
 &ldquo;_We the Tweeple of the United States, in order to form a more perfect government, establish communication, and promote transparency, do hereby tweet the Congress of the United States of America_.&rdquo;
 
 Open government empowers citizens to participate. Participation means more than just voting. Participation means applying your unique set of talents to improve the government that works for you. It means pausing in that moment when you ask yourself &ldquo;Why does the system work this way?&rdquo; or &ldquo;Wouldn&rsquo;t it be great if people could do such and such?&rdquo;—and when you ask the real question: &ldquo;What can I do about it?&rdquo; That&rsquo;s exactly how Tweet Congress came about.

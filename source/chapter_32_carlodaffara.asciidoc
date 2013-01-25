@@ -2,6 +2,7 @@
 [au="Carlo Daffara", au2="Jesus M. Gonzalez-Barahona"]
 == Open Source Software for Open Government Agencies
 
+
 The theme of open government that pervades this volume depends on drawing participation from as wide a swath of the public as possible, and this goal in turn calls for the use of software that is universally available, easy to use, easy to adapt to specific needs, and easy to modify to match evolving requirements. Free and open source software meets these goals more consistently than any alternative.
 
 In this chapter, we use the term _FLOSS_ for this type of software: free/libre/open source software. Although it&rsquo;s usually distributed free of charge, its distinguishing trait is a license that allows anyone to change the code and redistribute the changes. This keeps FLOSS from being dominated by one set of developers, and therefore from being burdened with restrictions that users may reject and that even may violate government policies (e.g., terms of service that let the developers collect personal information from users). The alternatives are usually called &ldquo;proprietary software&rdquo; because they are often free of charge but are still under the control of the organization that created them.

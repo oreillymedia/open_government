@@ -2,6 +2,7 @@
 [au="Micah L. Sifry"]
 == &ldquo;You Can Be the Eyes and Ears&rdquo;: Barack Obama and the Wisdom of Crowds
 
+
 On his first full day in office, President Barack Obama issued an executive memorandum that may someday be seen as signaling the most important shift in how government works in the United States since the rise of the New Deal. His subject? Not jobs or health care or the environment, but &ldquo;transparency and open government.&rdquo; In five succinct paragraphs, he promised to create an &ldquo;unprecedented level of openness in Government&rdquo; (see the <<memo_from_president_obama>>). &ldquo;We will work together to ensure the public trust and establish a system of transparency, public participation, and collaboration,&rdquo; he wrote, arguing that it would &ldquo;strengthen our democracy and promote efficiency and effectiveness in Government.&rdquo;
 
 Most significantly, he declared that in addition to making government more transparent, it should become more participatory and collaborative:

@@ -2,6 +2,7 @@
 [au="Dan Gillmor"]
 == Gov→Media→People
 
+
 In the old days of the twentieth century, journalists imagined that information about government activities moved this way: government→news media→people. Journalists selected from the torrent of government activities—including the day-to-day doings of legislators, executive branches, and bureaucrats; press releases and other documents; and so on—and decided what was important enough to tell readers. Imagine a one-way hourglass with the bulb at the top called Government, the slender neck in the middle called Media, and the immense container at the bottom called the People, namely the rest of us. That description was always too simplistic, of course. But now it&rsquo;s downright quaint. The system has evolved, largely due to the democratization of media. When anyone can publish, and when anyone else can read (listen to, watch, work with, etc.) what&rsquo;s been published, roles shift—and blur—in dramatic ways.
 
 To understand how thoroughly things have changed, consider what happened when I posted the following on Twitter a day before leading a session at Transparency Camp West—a Silicon Valley &ldquo;unconference&rdquo; (attendees controlled the agenda) held in August 2009, of open-government advocates—on evolving media and government roles. I said (editing slightly to correct the grammar in this greater-than-140-character medium): &ldquo;I&rsquo;m asking what replaces gov→media→people in a more open world.&rdquo;

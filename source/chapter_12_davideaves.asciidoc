@@ -2,6 +2,7 @@
 [au="David Eaves"]
 == After the Collapse: Open Government and the Future of Civil Service
 
+
 Across North America and around the world, citizens and public servants—influenced by social media, Web 2.0, open source software, and other social and technological developments—see growing pressure on governments to evolve. Seeking to respond to increasing citizen expectations around service delivery and effectiveness, these reformers envision governments that act as a platform: that share information (particularly raw data), are transparent in their operations and decision making, enable and leverage citizen-led projects, are effective conveners, and engage citizens&rsquo; requests, ideas, and feedback more intelligently.
 
 Government as a platform holds enormous possibility. But most present-day government institutions are not designed with this role in mind. More importantly, their cultures usually reflect the corporate values of a hierarchical system: centralized decision making, risk aversion, a strong delineation between insiders and outsiders, and deference to authority and specialization. In short, our governments are analog systems, not just in their structure and processes, but also in their values and culture. Understanding first the exogenous forces that are driving governments to evolve, and second how these forces will affect and manifest themselves within government, is essential to successfully managing the transition from Government 1.0 to Government 2.0. This is the goal of this chapter.

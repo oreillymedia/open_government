@@ -2,6 +2,7 @@
 [au="Jeff Jonas", au2="Jim Harper"]
 == Open Government: The Privacy Imperative
 
+
 When President Obama issued his open government directive on his first full day in office, he signaled in dramatic style that his administration would be more committed to collaboration, transparency, and participation than any prior administration (see the <<memo_from_president_obama>>). With an administration committed to openness and with continuing advances in information technology, the stars are aligning for major changes in the way government operates. But implementing open government will produce new challenges. One significant challenge will be the protection of privacy.
 
 As with all other digital interaction, online democracy that is collaborative and participatory will require U.S. citizens to reveal more personal information to government than they have before. Participating in online communities can produce deep reservoirs of information, raising acute sensitivities in the governmental context. Data collection can chill free speech or threaten legal rights and entitlements, undermining the valuable potential of open government if online privacy issues are not handled well.
